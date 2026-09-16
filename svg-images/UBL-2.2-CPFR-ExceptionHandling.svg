@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3425"
+   height="1786"
+   viewBox="0 0 3425 1786"
+   version="1.1"
+   id="svg62"
+   sodipodi:docname="UBL-2.2-CPFR-ExceptionHandling.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview62"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.31710871"
+     inkscape:cx="1712.3465"
+     inkscape:cy="892.43842"
+     inkscape:window-width="2018"
+     inkscape:window-height="1247"
+     inkscape:window-x="0"
+     inkscape:window-y="39"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg62" />
+  <rect
+     x="0"
+     y="0"
+     width="3425"
+     height="1786"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs1">
+    <marker
+       id="arrow"
+       viewBox="0 0 10 10"
+       refX="9"
+       refY="5"
+       markerWidth="7"
+       markerHeight="7"
+       orient="auto-start-reverse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         fill="#000000"
+         id="path1" />
+    </marker>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="3425"
+     height="1786"
+     fill="none"
+     stroke="#000000"
+     stroke-width="6"
+     id="rect2" />
+  <rect
+     x="82"
+     y="26"
+     width="3262"
+     height="1735"
+     rx="144"
+     ry="144"
+     fill="none"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect3" />
+  <line
+     x1="2366"
+     y1="741"
+     x2="2675"
+     y2="741"
+     stroke="#000000"
+     stroke-width="5"
+     id="line3" />
+  <line
+     x1="762"
+     y1="763"
+     x2="1035"
+     y2="763"
+     stroke="#000000"
+     stroke-width="5"
+     id="line4" />
+  <line
+     x1="2105"
+     y1="1067"
+     x2="2018"
+     y2="1067"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line5" />
+  <line
+     x1="894.78497"
+     y1="1612"
+     x2="2775"
+     y2="1612"
+     stroke="#000000"
+     stroke-width="5"
+     id="line6" />
+  <line
+     x1="662"
+     y1="541"
+     x2="662"
+     y2="664"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line10" />
+  <line
+     x1="790.00006"
+     y1="-1.7141567"
+     x2="790.00006"
+     y2="242.93401"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line12" />
+  <line
+     x1="1034"
+     y1="763"
+     x2="1034"
+     y2="997"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line13" />
+  <line
+     x1="2367"
+     y1="742"
+     x2="2367"
+     y2="975"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line14" />
+  <line
+     x1="2641"
+     y1="1.439337"
+     x2="2641"
+     y2="239.02098"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line15" />
+  <line
+     x1="2774"
+     y1="541"
+     x2="2774"
+     y2="642"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line16" />
+  <line
+     x1="2774"
+     y1="841"
+     x2="2774"
+     y2="1612"
+     stroke="#000000"
+     stroke-width="5"
+     id="line17" />
+  <line
+     x1="1693.9999"
+     y1="-2.0252919"
+     x2="1693.9999"
+     y2="1775.9999"
+     stroke="#000000"
+     stroke-width="5"
+     id="line19"
+     style="stroke:#c0c0c0;stroke-opacity:1" />
+  <line
+     x1="1855"
+     y1="1200"
+     x2="2002"
+     y2="1321"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line20" />
+  <polygon
+     points="662,690 736,764 662,837 589,764"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="polygon20" />
+  <polygon
+     points="2777,668 2853,742 2777,815 2701,742"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="polygon21" />
+  <text
+     x="1502"
+     y="146"
+     font-family="Helvetica"
+     font-size="43"
+     fill="#000000"
+     id="text22"
+     style="-inkscape-font-specification:'Helvetica Bold';font-family:Helvetica;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Exception Handling</text>
+  <text
+     x="2884"
+     y="746"
+     font-family="Helvetica"
+     font-size="38px"
+     fill="#000000"
+     id="text23">Exception Received?</text>
+  <text
+     x="187.68382"
+     y="768"
+     font-family="Helvetica"
+     font-size="38px"
+     fill="#000000"
+     id="text24">Exception Received?</text>
+  <text
+     x="571"
+     y="974"
+     font-family="Helvetica"
+     font-size="35"
+     fill="#000000"
+     id="text25">No</text>
+  <text
+     x="924"
+     y="976"
+     font-family="Helvetica"
+     font-size="34"
+     fill="#000000"
+     id="text26">Yes</text>
+  <text
+     x="2257"
+     y="954"
+     font-family="Helvetica"
+     font-size="35"
+     fill="#000000"
+     id="text27">Yes</text>
+  <text
+     x="2704"
+     y="953"
+     font-family="Helvetica"
+     font-size="35"
+     fill="#000000"
+     id="text28">No</text>
+  <text
+     x="402"
+     y="355"
+     font-family="Helvetica"
+     font-size="34"
+     fill="#000000"
+     id="text30">Receive Sales Forecast</text>
+  <text
+     x="483"
+     y="421"
+     font-family="Helvetica"
+     font-size="34"
+     fill="#000000"
+     id="text31">Wait for Exception</text>
+  <text
+     x="570"
+     y="470"
+     font-family="Helvetica"
+     font-size="34"
+     fill="#000000"
+     id="text32">Notification</text>
+  <text
+     x="2518"
+     y="350"
+     font-family="Helvetica"
+     font-size="34"
+     fill="#000000"
+     id="text33">Receive Sales Forecast</text>
+  <text
+     x="2600"
+     y="417"
+     font-family="Helvetica"
+     font-size="34"
+     fill="#000000"
+     id="text34">Wait for Exception</text>
+  <text
+     x="2687"
+     y="466"
+     font-family="Helvetica"
+     font-size="35"
+     fill="#000000"
+     id="text35">Notification</text>
+  <text
+     x="2281"
+     y="1092"
+     font-family="Helvetica"
+     font-size="38"
+     fill="#000000"
+     id="text36">1 Exception</text>
+  <rect
+     x="800"
+     y="1026"
+     width="491"
+     height="127"
+     rx="20"
+     ry="20"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect36" />
+  <text
+     x="1046"
+     y="1098"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="38"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text37">Send Exception</text>
+  <rect
+     x="798"
+     y="1023"
+     width="495"
+     height="132"
+     rx="21"
+     ry="21"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect37" />
+  <text
+     x="1046"
+     y="1098"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="38"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text38">Send Exception</text>
+  <rect
+     x="2133"
+     y="1004"
+     width="464"
+     height="140"
+     rx="22"
+     ry="22"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect38" />
+  <text
+     x="2365"
+     y="1083"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="38"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text39">Send Exception</text>
+  <rect
+     x="2131"
+     y="1001"
+     width="468"
+     height="145"
+     rx="23"
+     ry="23"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect39" />
+  <text
+     x="2365"
+     y="1082"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="38"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text40">Send Exception</text>
+  <rect
+     x="973"
+     y="1353"
+     width="597"
+     height="149"
+     rx="24"
+     ry="24"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect40" />
+  <text
+     x="1272"
+     y="1414"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text41">Receive Resolve</text>
+  <text
+     x="1272"
+     y="1456"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text42">Exception</text>
+  <rect
+     x="1828"
+     y="1349"
+     width="596"
+     height="149"
+     rx="24"
+     ry="24"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect42" />
+  <text
+     x="2126"
+     y="1410"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text43">Receive Resolve</text>
+  <text
+     x="2126"
+     y="1452"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text44">Exception</text>
+  <rect
+     x="1825"
+     y="1347"
+     width="602"
+     height="153"
+     rx="24"
+     ry="24"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect44" />
+  <text
+     x="2126"
+     y="1406"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="45"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text45">Receive Resolve</text>
+  <text
+     x="2126"
+     y="1462"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="45"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text46">Exception</text>
+  <rect
+     x="971"
+     y="1351"
+     width="601"
+     height="154"
+     rx="25"
+     ry="25"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect46" />
+  <text
+     x="1272"
+     y="1413"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="37"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text47">Receive Resolve</text>
+  <text
+     x="1272"
+     y="1459"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="37"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text48">Exception y</text>
+  <rect
+     x="1426"
+     y="956"
+     width="545"
+     height="218"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect49" />
+  <text
+     x="1698"
+     y="1048"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="43"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text49">Exception Notification</text>
+  <text
+     x="1698"
+     y="1102"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="43"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text50">(positive)</text>
+  <rect
+     x="371"
+     y="280"
+     width="596"
+     height="233"
+     rx="37"
+     ry="37"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect50" />
+  <text
+     x="669"
+     y="362"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text51">Receive Sales Forecast</text>
+  <text
+     x="669"
+     y="404"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text52">Wait for Exception</text>
+  <text
+     x="669"
+     y="447"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text53">Notification</text>
+  <rect
+     x="369"
+     y="277"
+     width="601"
+     height="238"
+     rx="38"
+     ry="38"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect53" />
+  <text
+     x="670"
+     y="361"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text54">Receive Sales Forecast</text>
+  <text
+     x="670"
+     y="404"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text55">Wait for Exception</text>
+  <text
+     x="670"
+     y="446"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text56">Notification</text>
+  <rect
+     x="2483"
+     y="275"
+     width="597"
+     height="238"
+     rx="38"
+     ry="38"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect56" />
+  <text
+     x="2782"
+     y="359"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text57">Receive Sales Forecast</text>
+  <text
+     x="2782"
+     y="402"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text58">Wait for Exception</text>
+  <text
+     x="2782"
+     y="444"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text59">Notification</text>
+  <rect
+     x="2481"
+     y="273"
+     width="601"
+     height="242"
+     rx="39"
+     ry="39"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect59" />
+  <text
+     x="2782"
+     y="359"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text60">Receive Sales Forecast</text>
+  <text
+     x="2782"
+     y="402"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text61">Wait for Exception</text>
+  <text
+     x="2782"
+     y="444"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text62">Notification</text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:0.9;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke:#c0c0c0;stroke-width:5;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:20, 20;paint-order:fill markers stroke"
+     x="2645.7803"
+     y="214.4375"
+     id="text63"><tspan
+       sodipodi:role="line"
+       id="tspan62"></tspan></text>
+  <line
+     x1="894.51837"
+     y1="1607.2987"
+     x2="894.51837"
+     y2="1788.5957"
+     stroke="#000000"
+     stroke-width="5.00001"
+     id="line63" />
+  <line
+     x1="661.07916"
+     y1="850.46051"
+     x2="661.07916"
+     y2="1787.3937"
+     stroke="#000000"
+     stroke-width="5"
+     id="line64" />
+  <line
+     x1="1492.2477"
+     y1="1212.614"
+     x2="1345.2477"
+     y2="1333.614"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line65" />
+  <line
+     x1="1311.2711"
+     y1="1067"
+     x2="1398.2711"
+     y2="1067"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line66" />
+</svg>

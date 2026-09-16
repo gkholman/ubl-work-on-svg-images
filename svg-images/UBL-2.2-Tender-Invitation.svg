@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3425" height="2056" viewBox="0 0 3425 2056">
+<rect x="0" y="0" width="3425" height="2056" fill="#ffffff"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#000000"/></marker></defs>
+<rect x="0" y="0" width="3425" height="2056" fill="none" stroke="#000000" stroke-width="6"/>
+<line x1="1227" y1="1016" x2="1427" y2="1016" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="1920" y1="1016" x2="2170" y2="1016" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="646" y1="364" x2="646" y2="506" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="646" y1="756" x2="646" y2="885" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="2764" y1="1142" x2="2764" y2="1327" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="2764" y1="1577" x2="2764" y2="1762" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="1653" y1="10" x2="1653" y2="2046" stroke="#000000" stroke-width="5"/>
+<text x="327" y="136" font-family="Helvetica" font-size="58" fill="#000000">CONTRACTING AUTHORITY</text>
+<text x="2117" y="136" font-family="Helvetica" font-size="58" fill="#000000">ECONOMIC OPERATOR</text>
+<circle cx="2764" cy="1864" r="92" fill="none" stroke="#000000" stroke-width="5"/>
+<circle cx="2764" cy="1864" r="58" fill="#000000" stroke="none"/>
+<circle cx="646" cy="296" r="58" fill="#000000" stroke="none"/>
+<rect x="2265" y="1353" width="998" height="198" rx="32" ry="32" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+<text x="2764" y="1465" text-anchor="middle" font-family="Helvetica" font-size="57" style="font-weight:bold;" fill="#000000">Process Call For Tenders</text>
+<rect x="2196" y="918" width="1136" height="198" rx="32" ry="32" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+<text x="2764" y="1030" text-anchor="middle" font-family="Helvetica" font-size="57" style="font-weight:bold;" fill="#000000">Receive Invitation to Tender</text>
+<rect x="92" y="911" width="1109" height="199" rx="32" ry="32" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+<text x="646" y="1023" text-anchor="middle" font-family="Helvetica" font-size="57" style="font-weight:bold;" fill="#000000">Submit Invitation to Tender</text>
+<rect x="1453" y="793" width="441" height="456" rx="0" ry="0" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+<text x="1674" y="954" text-anchor="middle" font-family="Helvetica" font-size="65" style="font-weight:bold;font-style:italic;" fill="#000000">Call</text>
+<text x="1674" y="1036" text-anchor="middle" font-family="Helvetica" font-size="65" style="font-weight:bold;font-style:italic;" fill="#000000">For</text>
+<text x="1674" y="1117" text-anchor="middle" font-family="Helvetica" font-size="65" style="font-weight:bold;font-style:italic;" fill="#000000">Tenders</text>
+<rect x="160" y="532" width="973" height="198" rx="32" ry="32" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+<text x="646" y="644" text-anchor="middle" font-family="Helvetica" font-size="57" style="font-weight:bold;" fill="#000000">Prepare call for tenders</text>
+</svg>

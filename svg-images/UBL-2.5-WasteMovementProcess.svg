@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2501"
+   height="1733"
+   viewBox="0 0 2501 1733"
+   version="1.1"
+   id="svg17"
+   sodipodi:docname="UBL-2.5-WasteMovementProcess.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.48563448"
+     inkscape:cx="1250.9408"
+     inkscape:cy="865.87757"
+     inkscape:window-width="2056"
+     inkscape:window-height="1262"
+     inkscape:window-x="0"
+     inkscape:window-y="39"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17" />
+  <rect
+     x="0"
+     y="0"
+     width="2501"
+     height="1733"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs1">
+    <marker
+       id="arrow"
+       viewBox="0 0 10 10"
+       refX="9"
+       refY="5"
+       markerWidth="7"
+       markerHeight="7"
+       orient="auto-start-reverse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         fill="#000000"
+         id="path1" />
+    </marker>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="2500"
+     height="1732"
+     fill="none"
+     stroke="#000000"
+     stroke-width="6"
+     id="rect2" />
+  <line
+     x1="824"
+     y1="1058"
+     x2="985"
+     y2="1058"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line2" />
+  <line
+     x1="1563"
+     y1="1058"
+     x2="1705"
+     y2="1058"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line3" />
+  <line
+     x1="511"
+     y1="349"
+     x2="511"
+     y2="458"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line4" />
+  <line
+     x1="511"
+     y1="699"
+     x2="511"
+     y2="938"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line5" />
+  <line
+     x1="2017"
+     y1="1179"
+     x2="2017"
+     y2="1573"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line6" />
+  <line
+     x1="1250"
+     y1="10"
+     x2="1250"
+     y2="1722"
+     stroke="#000000"
+     stroke-width="5"
+     id="line8" />
+  <text
+     x="362"
+     y="199"
+     font-family="Helvetica"
+     font-size="58px"
+     fill="#000000"
+     id="text8">Sender Party</text>
+  <text
+     x="1684"
+     y="199"
+     font-family="Helvetica"
+     font-size="57px"
+     fill="#000000"
+     id="text9">Receiver Party</text>
+  <circle
+     cx="2018"
+     cy="1634"
+     r="50"
+     fill="none"
+     stroke="#000000"
+     stroke-width="5"
+     id="circle9" />
+  <circle
+     cx="2018"
+     cy="1634"
+     r="30"
+     fill="#000000"
+     stroke="none"
+     id="circle10" />
+  <circle
+     cx="510"
+     cy="314"
+     r="26"
+     fill="#000000"
+     stroke="none"
+     id="circle11" />
+  <rect
+     x="1731"
+     y="964"
+     width="573"
+     height="189"
+     rx="30"
+     ry="30"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect11" />
+  <text
+     x="2018"
+     y="1041"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="44"
+     style="font-weight:normal;-inkscape-font-specification:Helvetica;font-family:Helvetica;font-style:normal;font-stretch:normal;font-variant:normal;font-size:48px"
+     fill="#000000"
+     id="text11">Receive Waste</text>
+  <text
+     x="2018"
+     y="1096"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="44"
+     style="font-weight:normal;-inkscape-font-specification:Helvetica;font-family:Helvetica;font-style:normal;font-stretch:normal;font-variant:normal;font-size:48px"
+     fill="#000000"
+     id="text12">Movement</text>
+  <rect
+     x="225"
+     y="964"
+     width="573"
+     height="189"
+     rx="30"
+     ry="30"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect12" />
+  <text
+     x="512"
+     y="1036"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="56"
+     style="font-weight:normal;-inkscape-font-specification:Helvetica;font-family:Helvetica;font-style:normal;font-stretch:normal;font-variant:normal;font-size:48px"
+     fill="#000000"
+     id="text13">Issue Waste</text>
+  <text
+     x="512"
+     y="1106"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="56"
+     style="font-weight:normal;-inkscape-font-specification:Helvetica;font-family:Helvetica;font-style:normal;font-stretch:normal;font-variant:normal;font-size:48px"
+     fill="#000000"
+     id="text14">Movement</text>
+  <rect
+     x="201"
+     y="484"
+     width="621"
+     height="189"
+     rx="30"
+     ry="30"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect14" />
+  <text
+     x="512"
+     y="555"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="58"
+     style="font-weight:normal;-inkscape-font-specification:Helvetica;font-family:Helvetica;font-style:normal;font-stretch:normal;font-variant:normal;font-size:48px"
+     fill="#000000"
+     id="text15">Prepare partial waste</text>
+  <text
+     x="512"
+     y="628"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="58"
+     style="font-weight:normal;-inkscape-font-specification:Helvetica;font-family:Helvetica;font-style:normal;font-stretch:normal;font-variant:normal;font-size:48px"
+     fill="#000000"
+     id="text16">movement</text>
+  <rect
+     x="1011"
+     y="940"
+     width="526"
+     height="237"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect16" />
+  <text
+     x="1274"
+     y="1068"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="44"
+     style="font-weight:normal;font-style:normal;-inkscape-font-specification:Helvetica;font-family:Helvetica;font-stretch:normal;font-variant:normal;font-size:48px"
+     fill="#000000"
+     id="text17">Waste Movement</text>
+</svg>

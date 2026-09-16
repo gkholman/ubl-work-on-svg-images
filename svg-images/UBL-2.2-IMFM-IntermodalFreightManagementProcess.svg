@@ -1,0 +1,1241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3425"
+   height="3221"
+   viewBox="0 0 3425 3221"
+   version="1.1"
+   id="svg119"
+   sodipodi:docname="UBL-2.2-IMFM-IntermodalFreightManagementProcess.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview119"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.32321041"
+     inkscape:cx="1710.9597"
+     inkscape:cy="1610.406"
+     inkscape:window-width="2056"
+     inkscape:window-height="1262"
+     inkscape:window-x="0"
+     inkscape:window-y="39"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg119" />
+  <rect
+     x="0"
+     y="0"
+     width="3425"
+     height="3221"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs1">
+    <marker
+       id="arrow"
+       viewBox="0 0 10 10"
+       refX="9"
+       refY="5"
+       markerWidth="7"
+       markerHeight="7"
+       orient="auto-start-reverse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         fill="#000000"
+         id="path1" />
+    </marker>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="3425"
+     height="3221"
+     fill="none"
+     stroke="#000000"
+     stroke-width="6"
+     id="rect2" />
+  <line
+     x1="2805.7202"
+     y1="283"
+     x2="1705.9968"
+     y2="283"
+     stroke="#000000"
+     stroke-width="4.99999"
+     marker-end="url(#arrow)"
+     id="line4" />
+  <line
+     x1="637"
+     y1="424"
+     x2="751"
+     y2="424"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line7" />
+  <line
+     x1="757"
+     y1="623"
+     x2="637"
+     y2="623"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line9" />
+  <line
+     x1="611"
+     y1="878"
+     x2="751"
+     y2="878"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line13" />
+  <line
+     x1="2816.0667"
+     y1="1076"
+     x2="1712.4889"
+     y2="1076"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line14" />
+  <line
+     x1="743"
+     y1="1096"
+     x2="611"
+     y2="1096"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line15" />
+  <line
+     x1="751"
+     y1="1322"
+     x2="611"
+     y2="1322"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line17" />
+  <line
+     x1="1687"
+     y1="1726"
+     x2="2301"
+     y2="1726"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line24" />
+  <line
+     x1="2710"
+     y1="1726"
+     x2="2835"
+     y2="1726"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line25" />
+  <line
+     x1="618"
+     y1="1747"
+     x2="743"
+     y2="1747"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line26" />
+  <line
+     x1="2301"
+     y1="1938"
+     x2="1687"
+     y2="1938"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line27" />
+  <line
+     x1="2835"
+     y1="1938"
+     x2="2710"
+     y2="1938"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line28" />
+  <line
+     x1="753"
+     y1="2004"
+     x2="618"
+     y2="2004"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line29" />
+  <line
+     x1="618"
+     y1="2244"
+     x2="761"
+     y2="2244"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line31" />
+  <line
+     x1="764"
+     y1="2495"
+     x2="618"
+     y2="2495"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line32" />
+  <line
+     x1="757"
+     y1="2939"
+     x2="661"
+     y2="2939"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line36" />
+  <line
+     x1="1230.5"
+     y1="2939"
+     x2="1144.5"
+     y2="2939"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line38" />
+  <line
+     x1="1458"
+     y1="1440"
+     x2="1458"
+     y2="1593"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line49" />
+  <line
+     x1="1458"
+     y1="2656"
+     x2="1458"
+     y2="2823"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line50" />
+  <line
+     x1="1437.3938"
+     y1="144.53848"
+     x2="1437.3938"
+     y2="188.21625"
+     stroke="#000000"
+     stroke-width="4.99999"
+     marker-end="url(#arrow)"
+     id="line57" />
+  <line
+     x1="404"
+     y1="3030"
+     x2="404"
+     y2="3137"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line58" />
+  <line
+     x1="71"
+     y1="10"
+     x2="71"
+     y2="3211"
+     stroke="#000000"
+     stroke-width="5"
+     id="line59" />
+  <line
+     x1="954"
+     y1="10"
+     x2="954"
+     y2="3211"
+     stroke="#000000"
+     stroke-width="5"
+     id="line60" />
+  <line
+     x1="2511"
+     y1="10"
+     x2="2511"
+     y2="3211"
+     stroke="#000000"
+     stroke-width="5"
+     id="line62" />
+  <text
+     x="1379"
+     y="586"
+     font-family="Helvetica"
+     font-size="25"
+     fill="#000000"
+     id="text62">Services</text>
+  <text
+     x="265.84564"
+     y="1074.094"
+     font-family="Helvetica"
+     font-size="27px"
+     fill="#000000"
+     id="text67">Perform Booking</text>
+  <text
+     x="276"
+     y="1108"
+     font-family="Helvetica"
+     font-size="30"
+     fill="#000000"
+     id="text68">Management</text>
+  <text
+     x="1397"
+     y="1070"
+     font-family="Helvetica"
+     font-size="24"
+     fill="#000000"
+     id="text69">Perform</text>
+  <text
+     x="1394"
+     y="2057"
+     font-family="Helvetica"
+     font-size="24"
+     fill="#000000"
+     id="text72"
+     style="font-size:29.33333333px">Execute</text>
+  <text
+     x="1300"
+     y="2100"
+     font-family="Helvetica"
+     font-size="28"
+     fill="#000000"
+     id="text73"
+     style="font-size:29.33333333px">Transport Services</text>
+  <circle
+     cx="404"
+     cy="3172"
+     r="34"
+     fill="none"
+     stroke="#000000"
+     stroke-width="5"
+     id="circle73" />
+  <circle
+     cx="404"
+     cy="3172"
+     r="14"
+     fill="#000000"
+     stroke="none"
+     id="circle74" />
+  <circle
+     cx="1438"
+     cy="106"
+     r="34"
+     fill="#000000"
+     stroke="none"
+     id="circle76" />
+  <rect
+     x="154"
+     y="364"
+     width="457"
+     height="348"
+     rx="56"
+     ry="56"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect77" />
+  <text
+     x="382"
+     y="528"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="25"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text77">Define Transport</text>
+  <text
+     x="382"
+     y="559"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="25"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text78">Service Demand</text>
+  <rect
+     x="2002"
+     y="2318"
+     width="458"
+     height="241"
+     rx="39"
+     ry="39"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect78" />
+  <text
+     x="2231"
+     y="2426"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="30"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text79">Perform Compliance</text>
+  <text
+     x="2231"
+     y="2464"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="30"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text80">Management</text>
+  <text
+     x="2228.4338"
+     y="42"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="30px"
+     style="font-weight:bold;font-size:29.33333333px;-inkscape-font-specification:'Helvetica Bold';font-family:Helvetica;font-style:normal;font-stretch:normal;font-variant:normal"
+     fill="#000000"
+     id="text81">Transport Regulator</text>
+  <rect
+     x="177"
+     y="2849"
+     width="458"
+     height="181"
+     rx="29"
+     ry="29"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect81" />
+  <text
+     x="406"
+     y="2930"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="25"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text82">Finalize</text>
+  <text
+     x="406"
+     y="2961"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="25"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text83">Transport Services</text>
+  <rect
+     x="1227"
+     y="2849"
+     width="458"
+     height="178"
+     rx="28"
+     ry="28"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect83" />
+  <text
+     x="1456"
+     y="2945"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="31"
+     style="font-weight:normal;-inkscape-font-specification:Helvetica;font-family:Helvetica;font-style:normal;font-stretch:normal;font-variant:normal;font-size:29.33333333px"
+     fill="#000000"
+     id="text84">Manage Completion</text>
+  <text
+     x="2208"
+     y="954"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="24"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text85">Transportation Network</text>
+  <text
+     x="2208"
+     y="984"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="24"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text86">Information</text>
+  <text
+     x="2250"
+     y="181"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="24"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text87">Transportation Network</text>
+  <text
+     x="2250"
+     y="211"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="24"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text88">Information</text>
+  <rect
+     x="769"
+     y="1677"
+     width="379"
+     height="173"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect88" />
+  <text
+     x="958"
+     y="1752"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="29"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text89">Transportation</text>
+  <text
+     x="958"
+     y="1788"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="29"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text90">Status Request</text>
+  <rect
+     x="779"
+     y="1919"
+     width="359"
+     height="173"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect90" />
+  <text
+     x="958"
+     y="1995"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="27"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text91">Transportation</text>
+  <text
+     x="958"
+     y="2028"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="27"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text92">Status</text>
+  <rect
+     x="769"
+     y="999"
+     width="359"
+     height="173"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect92" />
+  <text
+     x="948"
+     y="1076"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="23"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text93">Transport</text>
+  <text
+     x="948"
+     y="1105"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="23"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text94">Execution Plan</text>
+  <rect
+     x="783"
+     y="2853"
+     width="358"
+     height="173"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect94" />
+  <text
+     x="962"
+     y="2945"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="26"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text95">Freight Invoice</text>
+  <rect
+     x="790"
+     y="2408"
+     width="358"
+     height="173"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect95" />
+  <text
+     x="969"
+     y="2485"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="24"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text96">Transport</text>
+  <text
+     x="969"
+     y="2515"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="24"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text97">Execution Plan</text>
+  <rect
+     x="787"
+     y="2157"
+     width="358"
+     height="173"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect97" />
+  <text
+     x="966"
+     y="2234"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="24"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text98">Transport</text>
+  <text
+     x="966"
+     y="2264"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="24"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text99">Execution Plan</text>
+  <rect
+     x="783"
+     y="537"
+     width="358"
+     height="173"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect99" />
+  <text
+     x="962"
+     y="612"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="29"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text100">Transport Service</text>
+  <text
+     x="962"
+     y="648"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="29"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text101">Description</text>
+  <rect
+     x="2327"
+     y="1851"
+     width="357"
+     height="173"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect101" />
+  <text
+     x="2506"
+     y="1926"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="29"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text102">Transport</text>
+  <text
+     x="2506"
+     y="1962"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="29"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text103">Progress Status</text>
+  <rect
+     x="2327"
+     y="1640"
+     width="357"
+     height="173"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect103" />
+  <text
+     x="2506"
+     y="1697"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="29"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text104">Transport</text>
+  <text
+     x="2506"
+     y="1733"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="29"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text105">Progress Status</text>
+  <text
+     x="2506"
+     y="1769"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="29"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text106">Request</text>
+  <rect
+     x="777"
+     y="1236"
+     width="357"
+     height="173"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect106" />
+  <text
+     x="956"
+     y="1312"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="25"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text107">Goods Item</text>
+  <text
+     x="956"
+     y="1344"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="25"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text108">Itinerary</text>
+  <rect
+     x="777"
+     y="782"
+     width="357"
+     height="173"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect108" />
+  <text
+     x="956"
+     y="841"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="27"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text109">Transport</text>
+  <text
+     x="956"
+     y="875"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="27"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text110">Execution</text>
+  <text
+     x="956"
+     y="908"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="27"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text111">Plan Request</text>
+  <rect
+     x="777"
+     y="307"
+     width="357"
+     height="173"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect111" />
+  <text
+     x="956"
+     y="363"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="30"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text112">Transport Service</text>
+  <text
+     x="956"
+     y="400"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="30"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text113">Description</text>
+  <text
+     x="956"
+     y="438"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="30"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text114">Request</text>
+  <rect
+     x="1213"
+     y="196"
+     width="458"
+     height="127"
+     rx="20"
+     ry="20"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect114" />
+  <text
+     x="1442"
+     y="265"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="25"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text115">Plan Transport Services</text>
+  <text
+     x="2964"
+     y="42"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="30"
+     style="font-weight:bold;font-style:normal;font-size:29.33333333px;-inkscape-font-specification:'Helvetica Bold';font-family:Helvetica;font-stretch:normal;font-variant:normal"
+     fill="#000000"
+     id="text116">Transportation Network Manager</text>
+  <text
+     x="514"
+     y="42"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="27"
+     style="font-style:italic;font-weight:bold;font-size:29.3333px"
+     fill="#000000"
+     id="text117"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
+       id="tspan136">Transport User</tspan></text>
+  <path
+     id="path4"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:5, 5;stroke-dashoffset:0;paint-order:fill markers stroke"
+     d="m 2408.9198,884.44701 v 14.7818 h 16.8935 m -421.3987,-14.7961 404.6971,-0.1053 8.2481,7.3066 8.248,7.3066 0.1032,132.58949 h -421.2964 z"
+     sodipodi:nodetypes="cccccccccc" />
+  <path
+     id="path119"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:5, 5;stroke-dashoffset:0;paint-order:fill markers stroke"
+     d="m 2441.6718,120.34567 v 14.7818 h 16.8935 m -421.3987,-14.7961 404.6971,-0.1053 8.2481,7.3066 8.248,7.3066 0.1032,132.58952 h -421.2964 z"
+     sodipodi:nodetypes="cccccccccc" />
+  <text
+     x="1852"
+     y="2364"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="28"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text119">Information</text>
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-dasharray:5, 5;stroke-dashoffset:0;paint-order:fill markers stroke"
+     d="M 9.0333554,1508.6476 H 3412.9055"
+     id="path121"
+     sodipodi:nodetypes="cc" />
+  <rect
+     x="2849.6184"
+     y="207.27151"
+     width="368.0484"
+     height="1865.9174"
+     rx="73"
+     ry="73"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="4.99999"
+     id="rect76" />
+  <text
+     x="3002"
+     y="1015"
+     font-family="Helvetica"
+     font-size="24"
+     fill="#000000"
+     id="text63"
+     style="font-size:32px;-inkscape-font-specification:'Helvetica Bold';font-family:Helvetica;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Provide</text>
+  <text
+     x="2946"
+     y="1049.3125"
+     font-family="Helvetica"
+     font-size="30"
+     fill="#000000"
+     id="text64"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">Transportation</text>
+  <text
+     x="2999"
+     y="1089.5938"
+     font-family="Helvetica"
+     font-size="24"
+     fill="#000000"
+     id="text65"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'">Network</text>
+  <text
+     x="2974"
+     y="1124"
+     font-family="Helvetica"
+     font-size="23"
+     fill="#000000"
+     id="text66"
+     style="font-size:32px;-inkscape-font-specification:'Helvetica Bold';font-family:Helvetica;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Information</text>
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-dasharray:5, 5;stroke-dashoffset:0;paint-order:fill markers stroke"
+     d="M 9.0333554,2738.1687 H 3412.9055"
+     id="path122"
+     sodipodi:nodetypes="cc" />
+  <rect
+     x="1261.3047"
+     y="408.54541"
+     width="368.0484"
+     height="325.73438"
+     rx="73"
+     ry="73"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5.00001"
+     id="rect122"
+     style="fill:none" />
+  <rect
+     x="1261.3047"
+     y="793.59113"
+     width="368.0484"
+     height="640.77179"
+     rx="73"
+     ry="73"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5.00001"
+     id="rect123"
+     style="fill:none" />
+  <rect
+     x="1261.3047"
+     y="1607.4379"
+     width="368.0484"
+     height="1043.3196"
+     rx="73"
+     ry="73"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5.00002"
+     id="rect124"
+     style="fill:none" />
+  <text
+     x="1418.9625"
+     y="42"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="30px"
+     style="font-weight:bold;font-size:29.33333333px;-inkscape-font-specification:'Helvetica Bold';font-family:Helvetica;font-style:normal;font-stretch:normal;font-variant:normal"
+     fill="#000000"
+     id="text124">Transport Service Provider</text>
+  <line
+     x1="1850"
+     y1="10"
+     x2="1850"
+     y2="3211"
+     stroke="#000000"
+     stroke-width="5"
+     id="line61" />
+  <path
+     id="path120"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:5, 5;stroke-dashoffset:0;paint-order:fill markers stroke"
+     d="m 1939.1687,2264.4064 v 14.7818 h 16.8935 m -220.2913,-14.7961 203.5897,-0.1053 8.2481,7.3066 8.248,7.3066 0.1032,132.5895 h -220.189 z"
+     sodipodi:nodetypes="cccccccccc" />
+  <text
+     x="1852"
+     y="2329"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="28"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text118">Regulatory</text>
+  <line
+     x1="1437.3938"
+     y1="327.25314"
+     x2="1437.3938"
+     y2="399.36108"
+     stroke="#000000"
+     stroke-width="4.99999"
+     marker-end="url(#arrow)"
+     id="line124" />
+  <text
+     x="238"
+     y="1875.4296"
+     font-family="Helvetica"
+     font-size="27px"
+     fill="#000000"
+     id="text125">Monitor and Control</text>
+  <text
+     x="229.59061"
+     y="1918.6176"
+     font-family="Helvetica"
+     font-size="30px"
+     fill="#000000"
+     id="text126">Transport Services</text>
+  <rect
+     x="156.76106"
+     y="789.10248"
+     width="442.30344"
+     height="659.88208"
+     rx="73"
+     ry="73"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5.00001"
+     id="rect126"
+     style="fill:none" />
+  <rect
+     x="156.76106"
+     y="1630.6595"
+     width="442.30344"
+     height="1046.6271"
+     rx="73"
+     ry="73"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5.00001"
+     id="rect127"
+     style="fill:none" />
+  <line
+     x1="1252.1577"
+     y1="2502.7517"
+     x2="1166.1577"
+     y2="2502.7517"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line127" />
+  <line
+     x1="1159.5637"
+     y1="2236.6711"
+     x2="1245.5637"
+     y2="2236.6711"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line128" />
+  <line
+     x1="1245.9697"
+     y1="2001.5302"
+     x2="1159.9697"
+     y2="2001.5302"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line129" />
+  <line
+     x1="1159.5637"
+     y1="1750.9194"
+     x2="1245.5637"
+     y2="1750.9194"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line130" />
+  <line
+     x1="1239.7819"
+     y1="1317.765"
+     x2="1153.7819"
+     y2="1317.765"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line131" />
+  <line
+     x1="1239.7819"
+     y1="1094.9999"
+     x2="1153.7819"
+     y2="1094.9999"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line132" />
+  <line
+     x1="1242.8759"
+     y1="627.81195"
+     x2="1156.8759"
+     y2="627.81195"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line133" />
+  <line
+     x1="1156.4698"
+     y1="457.64417"
+     x2="1242.4698"
+     y2="457.64417"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line134" />
+  <line
+     x1="1150.282"
+     y1="875.32874"
+     x2="1236.282"
+     y2="875.32874"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line135" />
+  <text
+     x="1852"
+     y="2369.2214"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="28px"
+     style="font-weight:bold"
+     fill="#000000"
+     id="text135">Information</text>
+  <line
+     x1="1687"
+     y1="2459.2686"
+     x2="1971.8228"
+     y2="2459.2686"
+     stroke="#000000"
+     stroke-width="4.99998"
+     marker-end="url(#arrow)"
+     id="line136" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-dasharray:5, 5;stroke-dashoffset:0;paint-order:fill markers stroke"
+     d="M 9.0333554,66.862365 H 3412.9055"
+     id="path136"
+     sodipodi:nodetypes="cc" />
+  <text
+     x="-768.99512"
+     y="43.259274"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="27"
+     style="font-style:italic;font-weight:bold;font-size:29.3333px"
+     fill="#000000"
+     id="text137"
+     transform="rotate(-90)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
+       id="tspan137">Planning</tspan></text>
+  <text
+     x="-2065.3643"
+     y="43.259266"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="27"
+     style="font-style:italic;font-weight:bold;font-size:29.3333px"
+     fill="#000000"
+     id="text138"
+     transform="rotate(-90)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
+       id="tspan138">Execution</tspan></text>
+  <text
+     x="-2990.4583"
+     y="46.353191"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="27"
+     style="font-style:italic;font-weight:bold;font-size:29.3333px"
+     fill="#000000"
+     id="text139"
+     transform="rotate(-90)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold'"
+       id="tspan139">Completion</tspan></text>
+  <text
+     x="1356.7786"
+     y="1104.0336"
+     font-family="Helvetica"
+     font-size="24px"
+     fill="#000000"
+     id="text140">Order Management</text>
+  <text
+     x="1335.6846"
+     y="558.15436"
+     font-family="Helvetica"
+     font-size="25px"
+     fill="#000000"
+     id="text141">Announce Transport</text>
+</svg>

@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3425"
+   height="4862"
+   viewBox="0 0 3425 4862"
+   version="1.1"
+   id="svg77"
+   sodipodi:docname="UBL-2.0-CreateCatalogueProcess.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview77"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.21179129"
+     inkscape:cx="1713.9515"
+     inkscape:cy="2429.2784"
+     inkscape:window-width="1126"
+     inkscape:window-height="1250"
+     inkscape:window-x="0"
+     inkscape:window-y="39"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg77" />
+  <rect
+     x="0"
+     y="0"
+     width="3425"
+     height="4862"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs1">
+    <marker
+       id="arrow"
+       viewBox="0 0 10 10"
+       refX="9"
+       refY="5"
+       markerWidth="7"
+       markerHeight="7"
+       orient="auto-start-reverse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         fill="#000000"
+         id="path1" />
+    </marker>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="3425"
+     height="4862"
+     fill="none"
+     stroke="#000000"
+     stroke-width="6"
+     id="rect2" />
+  <line
+     x1="740"
+     y1="354"
+     x2="1031"
+     y2="354"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line2" />
+  <line
+     x1="1496"
+     y1="354"
+     x2="2564"
+     y2="354"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line3" />
+  <line
+     x1="1007"
+     y1="945"
+     x2="320"
+     y2="945"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line4" />
+  <line
+     x1="1753"
+     y1="945"
+     x2="1472"
+     y2="945"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line5" />
+  <line
+     x1="2822"
+     y1="945"
+     x2="2385"
+     y2="945"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line6" />
+  <line
+     x1="1896"
+     y1="1619"
+     x2="1477"
+     y2="1619"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line7" />
+  <line
+     x1="387"
+     y1="1700"
+     x2="1012"
+     y2="1700"
+     stroke="#000000"
+     stroke-width="5"
+     id="line8" />
+  <line
+     x1="1040.6522"
+     y1="2483"
+     x2="519.63867"
+     y2="2483"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line9" />
+  <line
+     x1="1863"
+     y1="2483"
+     x2="1491"
+     y2="2483"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line10" />
+  <line
+     x1="1515"
+     y1="3384"
+     x2="2656"
+     y2="3384"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line11" />
+  <line
+     x1="757"
+     y1="3401"
+     x2="1050"
+     y2="3401"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line12" />
+  <line
+     x1="773"
+     y1="4037"
+     x2="1069"
+     y2="4037"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line13" />
+  <line
+     x1="1534"
+     y1="4037"
+     x2="2853"
+     y2="4037"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line14" />
+  <line
+     x1="218"
+     y1="155"
+     x2="218"
+     y2="250"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line15" />
+  <line
+     x1="385.13547"
+     y1="1698"
+     x2="385.13547"
+     y2="2443.2891"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line16" />
+  <line
+     x1="429"
+     y1="2518.938"
+     x2="429"
+     y2="2711.7344"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line17" />
+  <line
+     x1="429"
+     y1="2920"
+     x2="429"
+     y2="3143"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line18" />
+  <line
+     x1="429"
+     y1="3659"
+     x2="429"
+     y2="3924"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line19" />
+  <line
+     x1="429"
+     y1="4134"
+     x2="429"
+     y2="4351"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line20" />
+  <line
+     x1="429"
+     y1="4551"
+     x2="429"
+     y2="4679"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line21" />
+  <line
+     x1="2204"
+     y1="2190"
+     x2="2204"
+     y2="2345"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line22" />
+  <line
+     x1="2905"
+     y1="455"
+     x2="2905"
+     y2="835"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line23" />
+  <line
+     x1="2905"
+     y1="1040"
+     x2="2905"
+     y2="1231"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line24" />
+  <line
+     x1="2921"
+     y1="3130"
+     x2="2921"
+     y2="1744"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line25" />
+  <line
+     x1="2921"
+     y1="3639"
+     x2="2921"
+     y2="3987"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line26" />
+  <line
+     x1="2996"
+     y1="1312"
+     x2="2996"
+     y2="1492"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line27" />
+  <line
+     x1="1284"
+     y1="10"
+     x2="1284"
+     y2="4852"
+     stroke="#000000"
+     stroke-width="5"
+     id="line28" />
+  <line
+     x1="2807.5996"
+     y1="1312"
+     x2="2504.5996"
+     y2="1506"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line29" />
+  <line
+     x1="2681"
+     y1="1744"
+     x2="2400"
+     y2="1919"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line30" />
+  <polygon
+     points="434,3169 731,3401 434,3633 137,3401"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="polygon30" />
+  <text
+     x="434"
+     y="3391"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="36"
+     fill="#000000"
+     id="text30">Review Catalogue</text>
+  <text
+     x="434"
+     y="3436"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="36"
+     fill="#000000"
+     id="text31">Content</text>
+  <polygon
+     points="2927,3156 3172,3384 2927,3613 2682,3384"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="polygon31" />
+  <text
+     x="2927"
+     y="3397"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="37"
+     fill="#000000"
+     id="text32">Decide on Action</text>
+  <polygon
+     points="2906,861 2964,938 2906,1014 2848,938"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="polygon32" />
+  <text
+     x="2923"
+     y="1132"
+     font-family="Helvetica"
+     font-size="45"
+     fill="#000000"
+     id="text33">[accept request]</text>
+  <text
+     x="488"
+     y="74"
+     font-family="Helvetica"
+     font-size="41"
+     fill="#000000"
+     id="text34"
+     style="font-size:42.66666667px">Receiver Party</text>
+  <text
+     x="2203"
+     y="74"
+     font-family="Helvetica"
+     font-size="41"
+     fill="#000000"
+     id="text35"
+     style="font-size:42.66666667px">Provider Party</text>
+  <text
+     x="2942"
+     y="2535"
+     font-family="Helvetica"
+     font-size="45"
+     fill="#000000"
+     id="text36">[revise content]</text>
+  <text
+     x="658.90784"
+     y="3266"
+     font-family="Helvetica"
+     font-size="46px"
+     fill="#000000"
+     id="text37">[query catalogue</text>
+  <text
+     x="665"
+     y="3327"
+     font-family="Helvetica"
+     font-size="45"
+     fill="#000000"
+     id="text38">content]</text>
+  <text
+     x="487"
+     y="3721"
+     font-family="Helvetica"
+     font-size="45"
+     fill="#000000"
+     id="text39">[accept content]</text>
+  <text
+     x="2440"
+     y="3788"
+     font-family="Helvetica"
+     font-size="46"
+     fill="#000000"
+     id="text40">[cancel transaction]</text>
+  <text
+     x="240"
+     y="2840"
+     font-family="Helvetica"
+     font-size="42"
+     fill="#000000"
+     id="text41">Receive Catalogue</text>
+  <text
+     x="123"
+     y="4049"
+     font-family="Helvetica"
+     font-size="46"
+     fill="#000000"
+     id="text42">Acknowledge Acceptance</text>
+  <text
+     x="2428"
+     y="1004"
+     font-family="Helvetica"
+     font-size="47"
+     fill="#000000"
+     id="text43">[reject request]</text>
+  <circle
+     cx="432"
+     cy="4738"
+     r="48"
+     fill="none"
+     stroke="#000000"
+     stroke-width="5"
+     id="circle43" />
+  <circle
+     cx="432"
+     cy="4738"
+     r="18"
+     fill="#000000"
+     stroke="none"
+     id="circle44" />
+  <circle
+     cx="2922"
+     cy="4060"
+     r="62"
+     fill="none"
+     stroke="#000000"
+     stroke-width="5"
+     id="circle45" />
+  <circle
+     cx="2922"
+     cy="4060"
+     r="32"
+     fill="#000000"
+     stroke="none"
+     id="circle46" />
+  <circle
+     cx="260"
+     cy="938"
+     r="50"
+     fill="none"
+     stroke="#000000"
+     stroke-width="5"
+     id="circle47" />
+  <circle
+     cx="260"
+     cy="938"
+     r="20"
+     fill="#000000"
+     stroke="none"
+     id="circle48" />
+  <circle
+     cx="216"
+     cy="96"
+     r="48"
+     fill="#000000"
+     stroke="none"
+     id="circle49" />
+  <rect
+     x="2751"
+     y="1257"
+     width="319"
+     height="29"
+     fill="#000000"
+     stroke="none"
+     id="rect50" />
+  <rect
+     x="91"
+     y="4377"
+     width="690"
+     height="148"
+     rx="24"
+     ry="24"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect51" />
+  <text
+     x="436"
+     y="4462"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="47"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text51">Accept Catalogue</text>
+  <rect
+     x="2590"
+     y="276"
+     width="641"
+     height="153"
+     rx="24"
+     ry="24"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect52" />
+  <text
+     x="2910"
+     y="363"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="46"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text52">Respond to Request</text>
+  <rect
+     x="54"
+     y="276"
+     width="660"
+     height="153"
+     rx="24"
+     ry="24"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect53" />
+  <text
+     x="384"
+     y="363"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="47"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text53">Request Catalogue</text>
+  <rect
+     x="134"
+     y="2737"
+     width="647"
+     height="157"
+     rx="25"
+     ry="25"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect54" />
+  <text
+     x="458"
+     y="2825"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="42"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text54">Receive Catalogue</text>
+  <rect
+     x="101"
+     y="3950"
+     width="646"
+     height="158"
+     rx="25"
+     ry="25"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect55" />
+  <text
+     x="424"
+     y="4039"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="46"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text55">Acknowledge Acceptance</text>
+  <rect
+     x="1779"
+     y="854"
+     width="580"
+     height="172"
+     rx="28"
+     ry="28"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect56" />
+  <text
+     x="2069"
+     y="949"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="42"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text56">Send Rejection</text>
+  <rect
+     x="1889"
+     y="2371"
+     width="631"
+     height="191"
+     rx="31"
+     ry="31"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect57" />
+  <text
+     x="2204"
+     y="2476"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="42"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text57">Distribute Catalogue</text>
+  <rect
+     x="1922"
+     y="1532"
+     width="574"
+     height="200"
+     rx="32"
+     ry="32"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect58" />
+  <text
+     x="2209"
+     y="1614"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="46"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text58">Send Acceptance</text>
+  <text
+     x="2209"
+     y="1671"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="46"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text59">Response</text>
+  <rect
+     x="2704"
+     y="1518"
+     width="632"
+     height="200"
+     rx="32"
+     ry="32"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect59" />
+  <text
+     x="3020"
+     y="1600"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="45"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text60">Prepare Catalogue</text>
+  <text
+     x="3020"
+     y="1656"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="45"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text61">Information</text>
+  <rect
+     x="1893"
+     y="1945"
+     width="627"
+     height="219"
+     rx="35"
+     ry="35"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect61" />
+  <text
+     x="2206"
+     y="2064"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="42"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text62">Produce Catalogue</text>
+  <rect
+     x="1052"
+     y="2374"
+     width="413"
+     height="224"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect62" />
+  <text
+     x="1258"
+     y="2499"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="57"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text63">Catalogue</text>
+  <rect
+     x="1057"
+     y="240"
+     width="413"
+     height="224"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect63" />
+  <text
+     x="1264"
+     y="330"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="56"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text64">Catalogue</text>
+  <text
+     x="1264"
+     y="400"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="56"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text65">Request</text>
+  <rect
+     x="1033"
+     y="833"
+     width="413"
+     height="242"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect65" />
+  <text
+     x="1240"
+     y="907"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="46"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text66">Application</text>
+  <text
+     x="1240"
+     y="964"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="46"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text67">Response</text>
+  <text
+     x="1240"
+     y="1022"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="46"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text68">(negative)</text>
+  <rect
+     x="1076"
+     y="3289"
+     width="413"
+     height="243"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect68" />
+  <text
+     x="1282"
+     y="3363"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="46"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text69">Application</text>
+  <text
+     x="1282"
+     y="3421"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="46"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text70">Response</text>
+  <text
+     x="1282"
+     y="3478"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="46"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text71">(negative)</text>
+  <rect
+     x="1038"
+     y="1506"
+     width="413"
+     height="243"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect71" />
+  <text
+     x="1244"
+     y="1581"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="45"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text72">Application</text>
+  <text
+     x="1244"
+     y="1638"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="45"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text73">Response</text>
+  <text
+     x="1244"
+     y="1694"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="45"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text74">(positive)</text>
+  <rect
+     x="1095"
+     y="3919"
+     width="413"
+     height="244"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect74" />
+  <text
+     x="1302"
+     y="3994"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="46"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text75">Application</text>
+  <text
+     x="1302"
+     y="4051"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="46"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text76">Response</text>
+  <text
+     x="1302"
+     y="4109"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="46"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text77">(positive)</text>
+  <path
+     style="fill:#ffffff;stroke:#000000;stroke-width:25;stroke-linecap:square;stroke-dasharray:none;paint-order:fill markers stroke"
+     d="M 311.62755,2478.8555 H 495.7711 v 0"
+     id="path77" />
+</svg>

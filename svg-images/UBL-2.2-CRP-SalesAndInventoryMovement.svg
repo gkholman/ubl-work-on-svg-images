@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3425" height="1746" viewBox="0 0 3425 1746">
+<rect x="0" y="0" width="3425" height="1746" fill="#ffffff"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#000000"/></marker></defs>
+<rect x="0" y="0" width="3425" height="1746" fill="none" stroke="#000000" stroke-width="6"/>
+<line x1="143" y1="558" x2="364" y2="558" stroke="#000000" stroke-width="5"/>
+<line x1="1535" y1="558" x2="1113" y2="558" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="2476" y1="558" x2="2024" y2="558" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="1531" y1="885" x2="1273" y2="885" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="2365" y1="885" x2="2032" y2="885" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="144" y1="558" x2="144" y2="1379" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="258" y1="1454" x2="258" y2="1605" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="378" y1="997" x2="378" y2="1379" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="2868" y1="256" x2="2868" y2="480" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="2868" y1="633" x2="2868" y2="794" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="1775" y1="10" x2="1775" y2="1736" stroke="#000000" stroke-width="5"/>
+<text x="792" y="85" font-family="Helvetica" font-size="38" fill="#000000">Producer</text>
+<text x="2520" y="85" font-family="Helvetica" font-size="38" fill="#000000">Retailer</text>
+<circle cx="2866" cy="208" r="38" fill="#000000" stroke="none"/>
+<circle cx="256" cy="1654" r="38" fill="none" stroke="#000000" stroke-width="5"/>
+<circle cx="256" cy="1654" r="14" fill="#000000" stroke="none"/>
+<rect x="82" y="1405" width="355" height="23" fill="#000000" stroke="none"/>
+<rect x="218" y="823" width="1029" height="148" rx="24" ry="24" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+<text x="732" y="881" text-anchor="middle" font-family="Helvetica" font-size="39" style="font-weight:bold;" fill="#000000">Receive a report about movement of</text>
+<text x="732" y="930" text-anchor="middle" font-family="Helvetica" font-size="39" style="font-weight:bold;" fill="#000000">goods</text>
+<rect x="2391" y="820" width="949" height="147" rx="24" ry="24" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+<text x="2866" y="878" text-anchor="middle" font-family="Helvetica" font-size="39" style="font-weight:bold;" fill="#000000">Send a report about movement of</text>
+<text x="2866" y="927" text-anchor="middle" font-family="Helvetica" font-size="39" style="font-weight:bold;" fill="#000000">goods</text>
+<rect x="1557" y="818" width="449" height="128" rx="0" ry="0" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+<text x="1782" y="892" text-anchor="middle" font-family="Helvetica" font-size="44" style="font-weight:bold;font-style:italic;" fill="#000000">Product Activity</text>
+<rect x="2502" y="506" width="731" height="101" rx="16" ry="16" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+<text x="2868" y="565" text-anchor="middle" font-family="Helvetica" font-size="38" style="font-weight:bold;" fill="#000000">Send a report about sales</text>
+<rect x="390" y="499" width="697" height="120" rx="19" ry="19" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+<text x="738" y="568" text-anchor="middle" font-family="Helvetica" font-size="39" style="font-weight:bold;" fill="#000000">Receive a report about sales</text>
+<rect x="1561" y="493" width="437" height="128" rx="0" ry="0" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+<text x="1780" y="567" text-anchor="middle" font-family="Helvetica" font-size="43" style="font-weight:bold;font-style:italic;" fill="#000000">Product Activity</text>
+</svg>

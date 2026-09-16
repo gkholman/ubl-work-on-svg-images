@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3425" height="2075" viewBox="0 0 3425 2075">
+<rect x="0" y="0" width="3425" height="2075" fill="#ffffff"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#000000"/></marker></defs>
+<rect x="0" y="0" width="3425" height="2075" fill="none" stroke="#000000" stroke-width="6"/>
+<line x1="632" y1="582" x2="215" y2="582" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="1094" y1="1227" x2="1563" y2="1227" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="2070" y1="1227" x2="2583" y2="1227" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="725" y1="352" x2="725" y2="1116" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="1816" y1="10" x2="1816" y2="2065" stroke="#000000" stroke-width="5"/>
+<line x1="2968" y1="1340" x2="2968" y2="1873" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<polygon points="725,525 792,582 725,639 658,582" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+<text x="753" y="730" font-family="Helvetica" font-size="35" fill="#000000">True</text>
+<text x="718" y="119" font-family="Helvetica" font-size="47" fill="#000000">Producer</text>
+<text x="2531" y="120" font-family="Helvetica" font-size="47" fill="#000000">Retailer</text>
+<text x="930" y="550" font-family="Helvetica" font-size="46" fill="#000000">Change of</text>
+<text x="931" y="621" font-family="Helvetica" font-size="46" fill="#000000">prices?</text>
+<text x="417" y="560" font-family="Helvetica" font-size="30" fill="#000000">False</text>
+<text x="1499" y="1206" font-family="Helvetica" font-size="7" fill="#000000">f</text>
+<circle cx="136" cy="584" r="55" fill="none" stroke="#000000" stroke-width="5"/>
+<circle cx="136" cy="584" r="22" fill="#000000" stroke="none"/>
+<circle cx="730" cy="270" r="57" fill="#000000" stroke="none"/>
+<circle cx="2966" cy="1946" r="48" fill="none" stroke="#000000" stroke-width="5"/>
+<circle cx="2966" cy="1946" r="19" fill="#000000" stroke="none"/>
+<rect x="2609" y="1142" width="729" height="172" rx="28" ry="28" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+<text x="2974" y="1240" text-anchor="middle" font-family="Helvetica" font-size="55" style="font-weight:bold;" fill="#000000">Receive Price List</text>
+<rect x="338" y="1142" width="730" height="166" rx="27" ry="27" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+<text x="703" y="1238" text-anchor="middle" font-family="Helvetica" font-size="56" style="font-weight:bold;" fill="#000000">Send Price List</text>
+<rect x="1589" y="1140" width="455" height="182" rx="0" ry="0" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+<text x="1816" y="1247" text-anchor="middle" font-family="Helvetica" font-size="70" style="font-weight:bold;font-style:italic;" fill="#000000">Catalogue</text>
+</svg>

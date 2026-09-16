@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2501"
+   height="2069"
+   viewBox="0 0 2501 2069"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="UBL-2.5-WasteNotificationProcess.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.48563448"
+     inkscape:cx="1242.7042"
+     inkscape:cy="1042.9655"
+     inkscape:window-width="2056"
+     inkscape:window-height="1262"
+     inkscape:window-x="0"
+     inkscape:window-y="39"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg26" />
+  <rect
+     x="0"
+     y="0"
+     width="2501"
+     height="2069"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs1">
+    <marker
+       id="arrow"
+       viewBox="0 0 10 10"
+       refX="9"
+       refY="5"
+       markerWidth="7"
+       markerHeight="7"
+       orient="auto-start-reverse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         fill="#000000"
+         id="path1" />
+    </marker>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="2500"
+     height="2068"
+     fill="none"
+     stroke="#000000"
+     stroke-width="6"
+     id="rect2" />
+  <line
+     x1="833"
+     y1="1058"
+     x2="985"
+     y2="1058"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line2" />
+  <line
+     x1="1563"
+     y1="1058"
+     x2="1705"
+     y2="1058"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line3" />
+  <line
+     x1="985"
+     y1="1489"
+     x2="891"
+     y2="1489"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line4" />
+  <line
+     x1="1705"
+     y1="1489"
+     x2="1515"
+     y2="1489"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line5" />
+  <line
+     x1="1011"
+     y1="1490"
+     x2="865"
+     y2="1490"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line6" />
+  <line
+     x1="530"
+     y1="1611"
+     x2="530"
+     y2="1813"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line7" />
+  <line
+     x1="554"
+     y1="349"
+     x2="554"
+     y2="525"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line8" />
+  <line
+     x1="554"
+     y1="766"
+     x2="554"
+     y2="938"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line9" />
+  <line
+     x1="2016"
+     y1="1179"
+     x2="2016"
+     y2="1369"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line10" />
+  <line
+     x1="1250"
+     y1="10"
+     x2="1250"
+     y2="2058"
+     stroke="#000000"
+     stroke-width="5"
+     id="line11" />
+  <text
+     x="362"
+     y="199"
+     font-family="Helvetica"
+     font-size="58px"
+     fill="#000000"
+     id="text11">Sender Party</text>
+  <text
+     x="1684"
+     y="199"
+     font-family="Helvetica"
+     font-size="57px"
+     fill="#000000"
+     id="text12">Receiver Party</text>
+  <circle
+     cx="530"
+     cy="1874"
+     r="50"
+     fill="none"
+     stroke="#000000"
+     stroke-width="5"
+     id="circle12" />
+  <circle
+     cx="530"
+     cy="1874"
+     r="30"
+     fill="#000000"
+     stroke="none"
+     id="circle13" />
+  <circle
+     cx="554"
+     cy="314"
+     r="26"
+     fill="#000000"
+     stroke="none"
+     id="circle14" />
+  <rect
+     x="1731"
+     y="964"
+     width="573"
+     height="189"
+     rx="30"
+     ry="30"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect14" />
+  <text
+     x="2018"
+     y="1041"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="44"
+     style="font-weight:normal;-inkscape-font-specification:Helvetica;font-family:Helvetica;font-style:normal;font-stretch:normal;font-variant:normal;font-size:48px"
+     fill="#000000"
+     id="text14">Receive Waste</text>
+  <text
+     x="2018"
+     y="1096"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="44"
+     style="font-weight:normal;-inkscape-font-specification:Helvetica;font-family:Helvetica;font-style:normal;font-stretch:normal;font-variant:normal;font-size:48px"
+     fill="#000000"
+     id="text15">Notification</text>
+  <rect
+     x="234"
+     y="964"
+     width="573"
+     height="189"
+     rx="30"
+     ry="30"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect15" />
+  <text
+     x="520"
+     y="1036.8875"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="42"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+     fill="#000000"
+     id="text16">Send Waste</text>
+  <text
+     x="520"
+     y="1103.8875"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="64"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+     fill="#000000"
+     id="text17">Notification</text>
+  <rect
+     x="244"
+     y="551"
+     width="621"
+     height="189"
+     rx="30"
+     ry="30"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect17" />
+  <text
+     x="554"
+     y="623"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="56"
+     style="font-weight:normal;-inkscape-font-specification:Helvetica;font-family:Helvetica;font-style:normal;font-stretch:normal;font-variant:normal;font-size:48px"
+     fill="#000000"
+     id="text18">Prepare notification of</text>
+  <text
+     x="554"
+     y="693"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="56"
+     style="font-weight:normal;-inkscape-font-specification:Helvetica;font-family:Helvetica;font-style:normal;font-stretch:normal;font-variant:normal;font-size:48px"
+     fill="#000000"
+     id="text19">waste movement</text>
+  <rect
+     x="1731"
+     y="1395"
+     width="573"
+     height="190"
+     rx="30"
+     ry="30"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect19" />
+  <text
+     x="2018"
+     y="1472"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="45"
+     style="font-weight:normal;-inkscape-font-specification:Helvetica;font-family:Helvetica;font-style:normal;font-stretch:normal;font-variant:normal;font-size:48px"
+     fill="#000000"
+     id="text20">Prepare and send</text>
+  <text
+     x="2018"
+     y="1528"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="45"
+     style="font-weight:normal;-inkscape-font-specification:Helvetica;font-family:Helvetica;font-style:normal;font-stretch:normal;font-variant:normal;font-size:48px"
+     fill="#000000"
+     id="text21">response</text>
+  <rect
+     x="196"
+     y="1395"
+     width="669"
+     height="190"
+     rx="30"
+     ry="30"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect21" />
+  <text
+     x="530"
+     y="1466.7692"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="42"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+     fill="#000000"
+     id="text22">Receive Waste</text>
+  <text
+     x="530"
+     y="1527.7692"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="50"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+     fill="#000000"
+     id="text23">Notification Response</text>
+  <rect
+     x="1011"
+     y="1371"
+     width="478"
+     height="237"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect23" />
+  <text
+     x="1250"
+     y="1467"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="56"
+     style="font-weight:normal;font-style:normal;-inkscape-font-specification:Helvetica;font-family:Helvetica;font-stretch:normal;font-variant:normal;font-size:48px"
+     fill="#000000"
+     id="text24">Application</text>
+  <text
+     x="1250"
+     y="1537"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="56"
+     style="font-weight:normal;font-style:normal;-inkscape-font-specification:Helvetica;font-family:Helvetica;font-stretch:normal;font-variant:normal;font-size:48px"
+     fill="#000000"
+     id="text25">Response</text>
+  <rect
+     x="1011"
+     y="940"
+     width="526"
+     height="237"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect25" />
+  <text
+     x="1274"
+     y="1069"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="45"
+     style="font-weight:normal;font-style:normal;-inkscape-font-specification:Helvetica;font-family:Helvetica;font-stretch:normal;font-variant:normal;font-size:48px"
+     fill="#000000"
+     id="text26">Waste Notification</text>
+</svg>

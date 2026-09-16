@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3425"
+   height="2976"
+   viewBox="0 0 3425 2976"
+   version="1.1"
+   id="svg61"
+   sodipodi:docname="UBL-2.2-CPFR-EstablishingCollaborativeRelationships.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview61"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.28854561"
+     inkscape:cx="1712.0343"
+     inkscape:cy="1486.7667"
+     inkscape:window-width="1880"
+     inkscape:window-height="1251"
+     inkscape:window-x="0"
+     inkscape:window-y="39"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg61" />
+  <rect
+     x="0"
+     y="0"
+     width="3425"
+     height="2976"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs1">
+    <marker
+       id="arrow"
+       viewBox="0 0 10 10"
+       refX="9"
+       refY="5"
+       markerWidth="7"
+       markerHeight="7"
+       orient="auto-start-reverse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         fill="#000000"
+         id="path1" />
+    </marker>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="3425"
+     height="2976"
+     fill="none"
+     stroke="#000000"
+     stroke-width="6"
+     id="rect2" />
+  <rect
+     x="82"
+     y="131.9697"
+     width="3262"
+     height="2621.4878"
+     rx="200"
+     ry="199.99998"
+     fill="none"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect3"
+     style="stroke-dasharray:20,20;stroke-dashoffset:0" />
+  <line
+     x1="1416"
+     y1="819"
+     x2="978"
+     y2="819"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line3" />
+  <line
+     x1="2518"
+     y1="819"
+     x2="1990"
+     y2="819"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line4" />
+  <line
+     x1="1189"
+     y1="1563"
+     x2="1461"
+     y2="1563"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line5" />
+  <line
+     x1="2013"
+     y1="1563"
+     x2="2302"
+     y2="1563"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line6" />
+  <line
+     x1="1481"
+     y1="1987"
+     x2="606"
+     y2="1987"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line7" />
+  <line
+     x1="1915"
+     y1="1987"
+     x2="2275"
+     y2="1987"
+     stroke="#000000"
+     stroke-width="5"
+     id="line8" />
+  <line
+     x1="2035"
+     y1="2513"
+     x2="2280"
+     y2="2513"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line10" />
+  <line
+     x1="1099.5068"
+     y1="2889.9998"
+     x2="2370.9998"
+     y2="2889.9998"
+     stroke="#000000"
+     stroke-width="5.00001"
+     id="line12" />
+  <line
+     x1="482"
+     y1="1822.5"
+     x2="482"
+     y2="1326.5"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line14" />
+  <line
+     x1="818"
+     y1="1323"
+     x2="818"
+     y2="1447"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line15" />
+  <line
+     x1="909"
+     y1="2168.4656"
+     x2="909"
+     y2="2278.4656"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line16" />
+  <line
+     x1="1480"
+     y1="1711"
+     x2="1480"
+     y2="1985"
+     stroke="#000000"
+     stroke-width="5"
+     id="line17" />
+  <line
+     x1="1916"
+     y1="1988"
+     x2="1916"
+     y2="1711"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line18" />
+  <line
+     x1="2370"
+     y1="2622"
+     x2="2370"
+     y2="2888"
+     stroke="#000000"
+     stroke-width="5"
+     id="line19" />
+  <line
+     x1="2608"
+     y1="1701"
+     x2="2608"
+     y2="1843"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line20" />
+  <line
+     x1="2851"
+     y1="450"
+     x2="2851"
+     y2="697"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line21" />
+  <line
+     x1="1705"
+     y1="10"
+     x2="1705"
+     y2="2966"
+     stroke="#000000"
+     stroke-width="5"
+     id="line24" />
+  <polygon
+     points="485,1899 580,1988 485,2076 390,1988"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="polygon24" />
+  <text
+     x="701"
+     y="94"
+     font-family="Helvetica"
+     font-size="38"
+     fill="#000000"
+     id="text25">Buyer Party</text>
+  <text
+     x="2552"
+     y="94"
+     font-family="Helvetica"
+     font-size="33"
+     fill="#000000"
+     id="text26">Seller Party</text>
+  <text
+     x="1276"
+     y="203"
+     font-family="Helvetica"
+     font-size="43"
+     fill="#000000"
+     id="text27"
+     style="-inkscape-font-specification:'Helvetica Bold';font-family:Helvetica;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Establishing Collaborative Relationship</text>
+  <text
+     x="391"
+     y="1367"
+     font-family="Helvetica"
+     font-size="35"
+     fill="#000000"
+     id="text28">No</text>
+  <text
+     x="162"
+     y="1870"
+     font-family="Helvetica"
+     font-size="44"
+     fill="#000000"
+     id="text29">Exception Criteria Accepted?</text>
+  <text
+     x="797"
+     y="2252"
+     font-family="Helvetica"
+     font-size="34"
+     fill="#000000"
+     id="text30">Yes</text>
+  <text
+     x="708"
+     y="1575"
+     font-family="Helvetica"
+     font-size="35"
+     fill="#000000"
+     id="text31">Send Revisior</text>
+  <text
+     x="793"
+     y="2402"
+     font-family="Helvetica"
+     font-size="35"
+     fill="#000000"
+     id="text32">Send Exce</text>
+  <circle
+     cx="2850"
+     cy="368"
+     r="72"
+     fill="#000000"
+     stroke="none"
+     id="circle32" />
+  <rect
+     x="753"
+     y="2303"
+     width="605"
+     height="183"
+     rx="29"
+     ry="29"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect33" />
+  <text
+     x="1056"
+     y="2402"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="35"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text33">Send Exception Criteria</text>
+  <rect
+     x="751"
+     y="2301"
+     width="610"
+     height="187"
+     rx="30"
+     ry="30"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect34" />
+  <text
+     x="1056"
+     y="2402"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="35"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text34">Send Exception Criteria</text>
+  <rect
+     x="582"
+     y="1476"
+     width="579"
+     height="187"
+     rx="30"
+     ry="30"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect35" />
+  <text
+     x="872"
+     y="1577"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="35"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text35">Send Revision</text>
+  <rect
+     x="580"
+     y="1473"
+     width="583"
+     height="193"
+     rx="31"
+     ry="31"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect36" />
+  <text
+     x="872"
+     y="1577"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="35"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text36">Send Revision</text>
+  <rect
+     x="2546"
+     y="725"
+     width="610"
+     height="205"
+     rx="33"
+     ry="33"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect37" />
+  <text
+     x="2851"
+     y="835"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text37">Send Exception Criteria</text>
+  <rect
+     x="2308"
+     y="2384"
+     width="606"
+     height="210"
+     rx="34"
+     ry="34"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect38" />
+  <text
+     x="2611"
+     y="2475"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="35"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text38">Receive Exception</text>
+  <text
+     x="2611"
+     y="2519"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="35"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text39">Criteria</text>
+  <rect
+     x="2544"
+     y="723"
+     width="615"
+     height="210"
+     rx="34"
+     ry="34"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect39" />
+  <text
+     x="2852"
+     y="836"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text40">Send Exception Criteria</text>
+  <rect
+     x="2306"
+     y="2381"
+     width="610"
+     height="215"
+     rx="34"
+     ry="34"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect40" />
+  <text
+     x="2611"
+     y="2474"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="35"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text41">Receive Exception</text>
+  <text
+     x="2611"
+     y="2518"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="35"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text42">Criteria</text>
+  <rect
+     x="2304"
+     y="1871"
+     width="610"
+     height="215"
+     rx="34"
+     ry="34"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect42" />
+  <text
+     x="2609"
+     y="1965"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text43">Review and Resend</text>
+  <text
+     x="2609"
+     y="2007"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text44">Revision</text>
+  <rect
+     x="2301"
+     y="1869"
+     width="615"
+     height="219"
+     rx="35"
+     ry="35"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect44" />
+  <text
+     x="2608"
+     y="1965"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text45">Review and Resend</text>
+  <text
+     x="2608"
+     y="2007"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text46">Revision</text>
+  <rect
+     x="2331"
+     y="1449"
+     width="560"
+     height="223"
+     rx="36"
+     ry="36"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect46" />
+  <text
+     x="2611"
+     y="1568"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text47">Receive Revision</text>
+  <rect
+     x="375"
+     y="707"
+     width="574"
+     height="223"
+     rx="36"
+     ry="36"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect47" />
+  <text
+     x="662"
+     y="804"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="35"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text48">Receive Exception</text>
+  <text
+     x="662"
+     y="848"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="35"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text49">Criteria</text>
+  <rect
+     x="373"
+     y="705"
+     width="579"
+     height="228"
+     rx="36"
+     ry="36"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect49" />
+  <text
+     x="662"
+     y="805"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="35"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text50">Receive Exception</text>
+  <text
+     x="662"
+     y="849"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="35"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text51">Criteria</text>
+  <rect
+     x="2328"
+     y="1446"
+     width="566"
+     height="229"
+     rx="37"
+     ry="37"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect51" />
+  <text
+     x="2611"
+     y="1568"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text52">Receive Revision</text>
+  <rect
+     x="1442"
+     y="704"
+     width="522"
+     height="234"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect52" />
+  <text
+     x="1703"
+     y="830"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="39"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text53">Exception Criteria</text>
+  <rect
+     x="380"
+     y="1058"
+     width="574"
+     height="237"
+     rx="38"
+     ry="38"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect53" />
+  <text
+     x="667"
+     y="1162"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="35"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text54">Revise Exception</text>
+  <text
+     x="667"
+     y="1206"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="35"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text55">Criteria</text>
+  <rect
+     x="1487"
+     y="1445"
+     width="500"
+     height="240"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect55" />
+  <text
+     x="1737"
+     y="1548"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="43"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text56">Exception Criteria</text>
+  <text
+     x="1737"
+     y="1602"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="43"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text57">(revision)</text>
+  <rect
+     x="378"
+     y="1055"
+     width="578"
+     height="242"
+     rx="39"
+     ry="39"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect57" />
+  <text
+     x="667"
+     y="1162"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="35"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text58">Revise Exception</text>
+  <text
+     x="667"
+     y="1206"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="35"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text59">Criteria</text>
+  <rect
+     x="1455"
+     y="2403"
+     width="554"
+     height="248"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect59" />
+  <text
+     x="1732"
+     y="2509"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="44"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text60">Exception Criteria</text>
+  <text
+     x="1732"
+     y="2564"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="44"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text61">(response positive)</text>
+  <line
+     x1="1102.0658"
+     y1="2887.353"
+     x2="1102.0658"
+     y2="2972.9268"
+     stroke="#000000"
+     stroke-width="5"
+     id="line61" />
+  <line
+     x1="641.25153"
+     y1="966.03735"
+     x2="641.25153"
+     y2="1032.7385"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line62" />
+  <line
+     x1="484.556"
+     y1="2081.3577"
+     x2="484.556"
+     y2="2170.6091"
+     stroke="#000000"
+     stroke-width="5"
+     id="line63" />
+  <line
+     x1="486.08563"
+     y1="2174.405"
+     x2="908.49261"
+     y2="2174.405"
+     stroke="#000000"
+     stroke-width="5.00001"
+     id="line64" />
+  <line
+     x1="1375.5267"
+     y1="2428.9885"
+     x2="1442.2279"
+     y2="2428.9885"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line65" />
+</svg>

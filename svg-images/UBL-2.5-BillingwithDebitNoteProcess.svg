@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3425"
+   height="1813"
+   viewBox="0 0 3425 1813"
+   version="1.1"
+   id="svg64"
+   sodipodi:docname="UBL-2.5-BillingwithDebitNoteProcess.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview64"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.35470708"
+     inkscape:cx="1712.6808"
+     inkscape:cy="906.38168"
+     inkscape:window-width="2056"
+     inkscape:window-height="1262"
+     inkscape:window-x="0"
+     inkscape:window-y="39"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg64" />
+  <rect
+     x="0"
+     y="0"
+     width="3425"
+     height="1813"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs1">
+    <marker
+       id="arrow"
+       viewBox="0 0 10 10"
+       refX="9"
+       refY="5"
+       markerWidth="7"
+       markerHeight="7"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         fill="#000000"
+         id="path1" />
+    </marker>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="3425"
+     height="1813"
+     fill="none"
+     stroke="#000000"
+     stroke-width="6"
+     id="rect2" />
+  <line
+     x1="1612"
+     y1="446"
+     x2="844"
+     y2="446"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line2" />
+  <line
+     x1="2171"
+     y1="446"
+     x2="1982"
+     y2="446"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line3" />
+  <line
+     x1="1608"
+     y1="806"
+     x2="1478"
+     y2="806"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line4" />
+  <line
+     x1="2072"
+     y1="806"
+     x2="1978"
+     y2="806"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line5" />
+  <line
+     x1="2911"
+     y1="806"
+     x2="2614"
+     y2="806"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line6" />
+  <line
+     x1="312"
+     y1="1305"
+     x2="131"
+     y2="1305"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line7" />
+  <line
+     x1="657"
+     y1="1305"
+     x2="929"
+     y2="1305"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line8" />
+  <line
+     x1="1474"
+     y1="1305"
+     x2="1623"
+     y2="1305"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line9" />
+  <line
+     x1="2734"
+     y1="1305"
+     x2="2919"
+     y2="1305"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line10" />
+  <line
+     x1="484"
+     y1="511"
+     x2="484"
+     y2="1165"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line12" />
+  <line
+     x1="484"
+     y1="1445"
+     x2="484"
+     y2="1664"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line13" />
+  <line
+     x1="1812"
+     y1="10"
+     x2="1812"
+     y2="1803"
+     stroke="#000000"
+     stroke-width="5"
+     id="line14" />
+  <line
+     x1="3094.4277"
+     y1="153.78061"
+     x2="3094.4277"
+     y2="675.30896"
+     stroke="#000000"
+     stroke-width="4.99998"
+     id="line15"
+     style="marker-end:url(#arrow)" />
+  <line
+     x1="2655"
+     y1="1033"
+     x2="2394"
+     y2="886"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line20" />
+  <line
+     x1="2652"
+     y1="1033"
+     x2="2388"
+     y2="886"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line21" />
+  <line
+     x1="3079.2908"
+     y1="685.06421"
+     x2="2711.9307"
+     y2="448.00894"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line22" />
+  <line
+     x1="949"
+     y1="882"
+     x2="517"
+     y2="1165"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line23" />
+  <polygon
+     points="484,1191 631,1305 484,1419 338,1305"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="polygon26" />
+  <text
+     x="484"
+     y="1298"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="27"
+     fill="#000000"
+     id="text26"
+     style="font-size:32px">Reconcile</text>
+  <text
+     x="484"
+     y="1331"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="27"
+     fill="#000000"
+     id="text27"
+     style="font-size:32px">Charges</text>
+  <polygon
+     points="3093,1190 3241,1304 3093,1419 2945,1304"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="polygon27" />
+  <text
+     x="3093"
+     y="1297"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="28"
+     fill="#000000"
+     id="text28"
+     style="font-size:32px">Validate</text>
+  <text
+     x="3093"
+     y="1332"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="28"
+     fill="#000000"
+     id="text29"
+     style="font-size:32px">Response</text>
+  <text
+     x="724"
+     y="58"
+     font-family="Helvetica"
+     font-size="32"
+     fill="#000000"
+     id="text30">Accounting Customer</text>
+  <text
+     x="2443"
+     y="58"
+     font-family="Helvetica"
+     font-size="36"
+     fill="#000000"
+     id="text31">Accounting Supplier</text>
+  <text
+     x="2752"
+     y="301"
+     font-family="Helvetica"
+     font-size="36"
+     fill="#000000"
+     id="text32"
+     style="font-size:37.33333333px">[initial</text>
+  <text
+     x="2751"
+     y="350.21701"
+     font-family="Helvetica"
+     font-size="28"
+     fill="#000000"
+     id="text33"
+     style="font-size:37.3333px">charges or</text>
+  <text
+     x="2752"
+     y="400.34549"
+     font-family="Helvetica"
+     font-size="28"
+     fill="#000000"
+     id="text34"
+     style="font-size:37.3333px">under</text>
+  <text
+     x="2751"
+     y="443"
+     font-family="Helvetica"
+     font-size="36"
+     fill="#000000"
+     id="text35"
+     style="font-size:37.33333333px">charged]</text>
+  <text
+     x="2812.2883"
+     y="743.5423"
+     font-family="Helvetica"
+     font-size="35px"
+     fill="#000000"
+     id="text36">[under</text>
+  <text
+     x="2816.9268"
+     y="784.90387"
+     font-family="Helvetica"
+     font-size="35px"
+     fill="#000000"
+     id="text37">charged]</text>
+  <text
+     x="3109"
+     y="1076"
+     font-family="Helvetica"
+     font-size="36"
+     fill="#000000"
+     id="text40">[incorrect</text>
+  <text
+     x="3108"
+     y="1123"
+     font-family="Helvetica"
+     font-size="35"
+     fill="#000000"
+     id="text41">charges]</text>
+  <text
+     x="2675"
+     y="1188"
+     font-family="Helvetica"
+     font-size="35"
+     fill="#000000"
+     id="text42">[incorrect information]</text>
+  <text
+     x="148"
+     y="1381"
+     font-family="Helvetica"
+     font-size="35"
+     fill="#000000"
+     id="text43">[accept</text>
+  <text
+     x="147"
+     y="1429"
+     font-family="Helvetica"
+     font-size="36px"
+     fill="#000000"
+     id="text44">debit]]</text>
+  <text
+     x="3101"
+     y="1509"
+     font-family="Helvetica"
+     font-size="31"
+     fill="#000000"
+     id="text45">[No action</text>
+  <text
+     x="3101"
+     y="1556"
+     font-family="Helvetica"
+     font-size="35"
+     fill="#000000"
+     id="text46">required]</text>
+  <text
+     x="516"
+     y="1582"
+     font-family="Helvetica"
+     font-size="36"
+     fill="#000000"
+     id="text47">[accept charges]</text>
+  <text
+     x="984"
+     y="1317"
+     font-family="Helvetica"
+     font-size="29"
+     fill="#000000"
+     id="text48">Sen</text>
+  <circle
+     cx="3098"
+     cy="1698"
+     r="48"
+     fill="none"
+     stroke="#000000"
+     stroke-width="5"
+     id="circle48" />
+  <circle
+     cx="3098"
+     cy="1698"
+     r="28"
+     fill="#000000"
+     stroke="none"
+     id="circle49" />
+  <circle
+     cx="3090"
+     cy="128"
+     r="46"
+     fill="#000000"
+     stroke="none"
+     id="circle50" />
+  <circle
+     cx="486"
+     cy="1714"
+     r="40"
+     fill="none"
+     stroke="#000000"
+     stroke-width="5"
+     id="circle51" />
+  <circle
+     cx="486"
+     cy="1714"
+     r="18"
+     fill="#000000"
+     stroke="none"
+     id="circle52" />
+  <circle
+     cx="84"
+     cy="1308"
+     r="38"
+     fill="none"
+     stroke="#000000"
+     stroke-width="5"
+     id="circle53" />
+  <circle
+     cx="84"
+     cy="1308"
+     r="16"
+     fill="#000000"
+     stroke="none"
+     id="circle54" />
+  <rect
+     x="2667"
+     y="1059"
+     width="277"
+     height="23"
+     fill="#000000"
+     stroke="none"
+     id="rect54" />
+  <rect
+     x="325"
+     y="389"
+     width="493"
+     height="96"
+     rx="15"
+     ry="15"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect55" />
+  <text
+     x="572"
+     y="443"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="27"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text55">Receive Invoice</text>
+  <rect
+     x="955"
+     y="1255"
+     width="493"
+     height="100"
+     rx="16"
+     ry="16"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect56" />
+  <text
+     x="1202"
+     y="1312"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="29"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text56">Send Account Response</text>
+  <rect
+     x="2098"
+     y="760"
+     width="490"
+     height="100"
+     rx="16"
+     ry="16"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect57" />
+  <text
+     x="2343"
+     y="816"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="28px"
+     style="font-weight:bold"
+     fill="#000000"
+     id="text57">Raise Debit Note</text>
+  <rect
+     x="962"
+     y="746"
+     width="490"
+     height="110"
+     rx="18"
+     ry="18"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect58" />
+  <text
+     x="1207"
+     y="807"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="27px"
+     style="font-weight:bold"
+     fill="#000000"
+     id="text58">Receive Debit Note</text>
+  <rect
+     x="2197"
+     y="397"
+     width="489"
+     height="114"
+     rx="18"
+     ry="18"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect59" />
+  <text
+     x="2442"
+     y="460"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="28"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text59">Raise Invoice</text>
+  <rect
+     x="2131"
+     y="1245"
+     width="577"
+     height="128"
+     rx="20"
+     ry="20"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect60" />
+  <text
+     x="2420"
+     y="1315"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="28"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text60">Receive Account Response</text>
+  <rect
+     x="1649"
+     y="1214"
+     width="369"
+     height="172"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect61" />
+  <text
+     x="1834"
+     y="1287"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="33"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text61">Invoice Status</text>
+  <text
+     x="1834"
+     y="1328"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="33"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text62">Response</text>
+  <rect
+     x="1638"
+     y="362"
+     width="318"
+     height="172"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect62" />
+  <text
+     x="1797"
+     y="456"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text63">Invoice</text>
+  <rect
+     x="1634"
+     y="718"
+     width="318"
+     height="173"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect63" />
+  <text
+     x="1793"
+     y="812"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34px"
+     style="font-style:italic;font-weight:bold"
+     fill="#000000"
+     id="text64">Debit Note</text>
+  <polygon
+     points="3093,1419 2945,1304 3093,1190 3241,1304 "
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="polygon64"
+     transform="translate(-2.6622658e-8,-493.36484)" />
+  <text
+     x="3011"
+     y="800"
+     font-family="Helvetica"
+     font-size="28"
+     fill="#000000"
+     id="text38"
+     style="font-size:32px">Reconcile</text>
+  <text
+     x="3010"
+     y="854"
+     font-family="Helvetica"
+     font-size="36"
+     fill="#000000"
+     id="text39"
+     style="font-size:32px">Charges</text>
+  <line
+     x1="2890.2791"
+     y1="1040.3379"
+     x2="2599.0178"
+     y2="529.71558"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line64" />
+  <line
+     x1="2933.459"
+     y1="1303.6359"
+     x2="2799.1665"
+     y2="1094.6329"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line65" />
+  <line
+     x1="3094.4277"
+     y1="1160.8969"
+     x2="3094.4277"
+     y2="941.81537"
+     stroke="#000000"
+     stroke-width="5"
+     id="line66"
+     style="marker-end:url(#arrow)" />
+  <line
+     x1="3094.4277"
+     y1="1423.2225"
+     x2="3094.4277"
+     y2="1642.304"
+     stroke="#000000"
+     stroke-width="5"
+     id="line67"
+     style="marker-end:url(#arrow)" />
+  <line
+     x1="2028.0653"
+     y1="1305.0033"
+     x2="2122.0654"
+     y2="1305.0033"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line68" />
+</svg>

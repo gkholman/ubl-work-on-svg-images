@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3425"
+   height="2747"
+   viewBox="0 0 3425 2747"
+   version="1.1"
+   id="svg44"
+   sodipodi:docname="UBL-2.0-DeleteCatalogueProcess.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview44"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.29437482"
+     inkscape:cx="1713.8015"
+     inkscape:cy="1374.0985"
+     inkscape:window-width="2056"
+     inkscape:window-height="1262"
+     inkscape:window-x="0"
+     inkscape:window-y="39"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg44" />
+  <rect
+     x="0"
+     y="0"
+     width="3425"
+     height="2747"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs1">
+    <marker
+       id="arrow"
+       viewBox="0 0 10 10"
+       refX="9"
+       refY="5"
+       markerWidth="7"
+       markerHeight="7"
+       orient="auto-start-reverse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         fill="#000000"
+         id="path1" />
+    </marker>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="3425"
+     height="2747"
+     fill="none"
+     stroke="#000000"
+     stroke-width="6"
+     id="rect2" />
+  <line
+     x1="1392"
+     y1="500"
+     x2="772"
+     y2="500"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line2" />
+  <line
+     x1="2700"
+     y1="500"
+     x2="1857"
+     y2="500"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line3" />
+  <line
+     x1="1885"
+     y1="1362"
+     x2="2769"
+     y2="1362"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line4" />
+  <line
+     x1="651"
+     y1="1380"
+     x2="1421"
+     y2="1380"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line5" />
+  <line
+     x1="691"
+     y1="2203"
+     x2="1383"
+     y2="2203"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line6" />
+  <line
+     x1="1847"
+     y1="2220"
+     x2="2094"
+     y2="2220"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line7" />
+  <line
+     x1="2805"
+     y1="2220"
+     x2="3012"
+     y2="2220"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line8" />
+  <line
+     x1="701"
+     y1="2619"
+     x2="1107"
+     y2="2619"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line9" />
+  <line
+     x1="412"
+     y1="602"
+     x2="412"
+     y2="1142"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line10" />
+  <line
+     x1="412"
+     y1="1621"
+     x2="412"
+     y2="2072.0076"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line11" />
+  <line
+     x1="426"
+     y1="2308"
+     x2="426"
+     y2="2496"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line13" />
+  <line
+     x1="3040"
+     y1="198"
+     x2="3040"
+     y2="369"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line14" />
+  <line
+     x1="3068"
+     y1="1159"
+     x2="3068"
+     y2="621"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line15" />
+  <line
+     x1="3068"
+     y1="1570"
+     x2="3068"
+     y2="2166"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line16" />
+  <line
+     x1="1631"
+     y1="10"
+     x2="1631"
+     y2="2737"
+     stroke="#000000"
+     stroke-width="5"
+     id="line17" />
+  <polygon
+     points="3071,1185 3347,1364 3071,1544 2795,1364"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="polygon17" />
+  <text
+     x="3071"
+     y="1353"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="41"
+     fill="#000000"
+     id="text17">Review Deletion</text>
+  <text
+     x="3071"
+     y="1404"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="41"
+     fill="#000000"
+     id="text18">of Catalogue</text>
+  <polygon
+     points="412,1168 625,1382 412,1595 198,1382"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="polygon18" />
+  <text
+     x="412"
+     y="1394"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="37"
+     fill="#000000"
+     id="text19">Decide on Action</text>
+  <text
+     x="590"
+     y="72"
+     font-family="Helvetica"
+     font-size="41"
+     fill="#000000"
+     id="text20">Receiver Party</text>
+  <text
+     x="2434"
+     y="72"
+     font-family="Helvetica"
+     font-size="41"
+     fill="#000000"
+     id="text21">Provider Party</text>
+  <text
+     x="2618"
+     y="1031"
+     font-family="Helvetica"
+     font-size="45"
+     fill="#000000"
+     id="text22">[insist on deletion]</text>
+  <text
+     x="752.79407"
+     y="1437.809"
+     font-family="Helvetica"
+     font-size="46px"
+     fill="#000000"
+     id="text23">[query catalogue deletion]</text>
+  <text
+     x="2642"
+     y="1656"
+     font-family="Helvetica"
+     font-size="46"
+     fill="#000000"
+     id="text24">[cancel deletion]</text>
+  <text
+     x="112"
+     y="1925"
+     font-family="Helvetica"
+     font-size="45"
+     fill="#000000"
+     id="text25">[accept catalogue deletion]</text>
+  <circle
+     cx="3042"
+     cy="140"
+     r="48"
+     fill="#000000"
+     stroke="none"
+     id="circle26" />
+  <circle
+     cx="1166"
+     cy="2620"
+     r="48"
+     fill="none"
+     stroke="#000000"
+     stroke-width="5"
+     id="circle27" />
+  <circle
+     cx="1166"
+     cy="2620"
+     r="18"
+     fill="#000000"
+     stroke="none"
+     id="circle28" />
+  <circle
+     cx="3072"
+     cy="2226"
+     r="50"
+     fill="none"
+     stroke="#000000"
+     stroke-width="5"
+     id="circle29" />
+  <circle
+     cx="3072"
+     cy="2226"
+     r="20"
+     fill="#000000"
+     stroke="none"
+     id="circle30" />
+  <rect
+     x="177"
+     y="2522"
+     width="498"
+     height="167"
+     rx="27"
+     ry="27"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect30" />
+  <text
+     x="426"
+     y="2615"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="41"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text30">Delete Catalogue</text>
+  <rect
+     x="2120"
+     y="2125"
+     width="659"
+     height="181"
+     rx="29"
+     ry="29"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect31" />
+  <text
+     x="2450"
+     y="2225"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="41"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text31">Cancel Catalogue</text>
+  <rect
+     x="168"
+     y="2116"
+     width="497"
+     height="166"
+     rx="27"
+     ry="27"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect32" />
+  <text
+     x="416"
+     y="2183"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="41"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text32">Acknowledge</text>
+  <text
+     x="416"
+     y="2234"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="41"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text33">Cancelation</text>
+  <rect
+     x="1409"
+     y="2094"
+     width="412"
+     height="224"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect33" />
+  <text
+     x="1615"
+     y="2160"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="45"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text34">Application</text>
+  <text
+     x="1615"
+     y="2216"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="45"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text35">Response</text>
+  <text
+     x="1615"
+     y="2272"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="45"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text36">(positive)</text>
+  <rect
+     x="1447"
+     y="1253"
+     width="412"
+     height="223"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect36" />
+  <text
+     x="1653"
+     y="1317"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="46"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text37">Application</text>
+  <text
+     x="1653"
+     y="1375"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="46"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text38">Response</text>
+  <text
+     x="1653"
+     y="1432"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="46"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text39">(negative)</text>
+  <rect
+     x="78"
+     y="438"
+     width="668"
+     height="138"
+     rx="22"
+     ry="22"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect39" />
+  <text
+     x="412"
+     y="518"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="47"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text40">Identify Catalogue</text>
+  <rect
+     x="2726"
+     y="395"
+     width="630"
+     height="200"
+     rx="32"
+     ry="32"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect40" />
+  <text
+     x="3041"
+     y="478"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="42"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text41">Notify of Catalogue</text>
+  <text
+     x="3041"
+     y="531"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="42"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text42">Deletion</text>
+  <rect
+     x="1418"
+     y="388"
+     width="413"
+     height="224"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect42" />
+  <text
+     x="1624"
+     y="480"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="50"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text43">Catalogue</text>
+  <text
+     x="1624"
+     y="542"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="50"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text44">Deletion</text>
+</svg>

@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3425"
+   height="2672"
+   viewBox="0 0 3425 2672"
+   version="1.1"
+   id="svg33"
+   sodipodi:docname="UBL-2.2-Tender-ContractInfoNotify.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview33"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.33634509"
+     inkscape:cx="1712.5269"
+     inkscape:cy="1336.425"
+     inkscape:window-width="1270"
+     inkscape:window-height="1260"
+     inkscape:window-x="0"
+     inkscape:window-y="39"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg33" />
+  <rect
+     x="0"
+     y="0"
+     width="3425"
+     height="2672"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs1">
+    <marker
+       id="arrow"
+       viewBox="0 0 10 10"
+       refX="9"
+       refY="5"
+       markerWidth="7"
+       markerHeight="7"
+       orient="auto-start-reverse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         fill="#000000"
+         id="path1" />
+    </marker>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="3425"
+     height="2672"
+     fill="none"
+     stroke="#000000"
+     stroke-width="6"
+     id="rect2" />
+  <line
+     x1="3342"
+     y1="662"
+     x2="1233"
+     y2="662"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line2" />
+  <line
+     x1="805"
+     y1="1145"
+     x2="1569.5951"
+     y2="1145"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line4" />
+  <line
+     x1="2011.7163"
+     y1="1145"
+     x2="2132.7163"
+     y2="1145"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line5" />
+  <line
+     x1="2845"
+     y1="1522"
+     x2="3329"
+     y2="1522"
+     stroke="#000000"
+     stroke-width="5"
+     id="line7" />
+  <line
+     x1="2124"
+     y1="1996"
+     x2="1225"
+     y2="1996"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line8" />
+  <line
+     x1="2698"
+     y1="1277"
+     x2="2698"
+     y2="1374"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line11" />
+  <line
+     x1="2698"
+     y1="1668"
+     x2="2698"
+     y2="1854"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line12" />
+  <line
+     x1="3336"
+     y1="669"
+     x2="3336"
+     y2="1527"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line13" />
+  <polygon
+     points="2698,1400 2819,1521 2698,1642 2578,1521"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="polygon15" />
+  <text
+     x="2698"
+     y="1543"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="63"
+     fill="#000000"
+     id="text15">OK?</text>
+  <polygon
+     points="658,1021 779,1142 658,1262 538,1142"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="polygon16" />
+  <text
+     x="82"
+     y="1155"
+     font-family="Helvetica"
+     font-size="63"
+     fill="#000000"
+     id="text16">Above</text>
+  <text
+     x="83"
+     y="1277"
+     font-family="Helvetica"
+     font-size="63"
+     fill="#000000"
+     id="text17">Thresholds?</text>
+  <text
+     x="353"
+     y="126"
+     font-family="Helvetica"
+     font-size="64"
+     fill="#000000"
+     id="text18">CONTRACTING AUTHORITY</text>
+  <text
+     x="2169"
+     y="128"
+     font-family="Helvetica"
+     font-size="64"
+     fill="#000000"
+     id="text19">PUBLICATION OFFICE</text>
+  <line
+     x1="1806"
+     y1="10"
+     x2="1806"
+     y2="2662"
+     stroke="#000000"
+     stroke-width="5"
+     id="line15" />
+  <text
+     x="2742"
+     y="1794"
+     font-family="Helvetica"
+     font-size="63"
+     fill="#000000"
+     id="text22">Yes</text>
+  <text
+     x="2250"
+     y="1167"
+     font-family="Helvetica"
+     font-size="63"
+     fill="#000000"
+     id="text23">Validate Contract Notice</text>
+  <text
+     x="2880"
+     y="1498"
+     font-family="Helvetica"
+     font-size="63"
+     fill="#000000"
+     id="text24">No</text>
+  <text
+     x="2264"
+     y="2017"
+     font-family="Helvetica"
+     font-size="63"
+     fill="#000000"
+     id="text25">Publish Contract Notice</text>
+  <text
+     x="200"
+     y="705"
+     font-family="Helvetica"
+     font-size="64"
+     fill="#000000"
+     id="text26">Prepare Contract Notice</text>
+  <text
+     x="935"
+     y="1115"
+     font-family="Helvetica"
+     font-size="63"
+     fill="#000000"
+     id="text27">Yes</text>
+  <text
+     x="718"
+     y="1427"
+     font-family="Helvetica"
+     font-size="63"
+     fill="#000000"
+     id="text28">No</text>
+  <circle
+     cx="658"
+     cy="2484"
+     r="102"
+     fill="none"
+     stroke="#000000"
+     stroke-width="5"
+     id="circle28" />
+  <circle
+     cx="658"
+     cy="2484"
+     r="66"
+     fill="#000000"
+     stroke="none"
+     id="circle29" />
+  <circle
+     cx="658"
+     cy="252"
+     r="66"
+     fill="#000000"
+     stroke="none"
+     id="circle30" />
+  <rect
+     x="131"
+     y="1887"
+     width="1068"
+     height="221"
+     rx="35"
+     ry="35"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect30" />
+  <text
+     x="665"
+     y="2012"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="64"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text30">Publish in Buyer Profile</text>
+  <rect
+     x="2150"
+     y="1880"
+     width="1084"
+     height="221"
+     rx="35"
+     ry="35"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect31" />
+  <text
+     x="2692"
+     y="2005"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="63"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text31">Publish Contract Notice</text>
+  <rect
+     x="2144"
+     y="1030"
+     width="1122"
+     height="221"
+     rx="35"
+     ry="35"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect32" />
+  <text
+     x="2705"
+     y="1155"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="63"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text32">Validate Contract Notice</text>
+  <rect
+     x="100"
+     y="552"
+     width="1107"
+     height="222"
+     rx="36"
+     ry="36"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect33" />
+  <text
+     x="654"
+     y="677"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="64"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text33">Prepare Contract Notice</text>
+  <rect
+     style="fill:#ffffff;stroke:#000000;stroke-width:5;stroke-linecap:square;paint-order:fill markers stroke"
+     id="rect34"
+     width="407.31976"
+     height="416.23917"
+     x="1593.6014"
+     y="938.6449" />
+  <text
+     x="1636"
+     y="1107.693"
+     font-family="Helvetica"
+     font-size="64px"
+     fill="#000000"
+     id="text20"
+     style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold Oblique'">Contract</text>
+  <text
+     x="1632"
+     y="1230.693"
+     font-family="Helvetica"
+     font-size="63px"
+     fill="#000000"
+     id="text21"
+     style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold Oblique'">Notice</text>
+  <line
+     x1="655.45496"
+     y1="344.95407"
+     x2="655.45496"
+     y2="530.9541"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line34" />
+  <line
+     x1="655.45496"
+     y1="808.76343"
+     x2="655.45496"
+     y2="994.76349"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line35" />
+  <line
+     x1="655.45496"
+     y1="2146.675"
+     x2="655.45496"
+     y2="2332.675"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line36" />
+  <line
+     x1="655.45496"
+     y1="1281.4922"
+     x2="655.45496"
+     y2="1855.616"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line37" />
+</svg>

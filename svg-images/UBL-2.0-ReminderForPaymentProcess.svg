@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3425" height="1980" viewBox="0 0 3425 1980">
+<rect x="0" y="0" width="3425" height="1980" fill="#ffffff"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#000000"/></marker></defs>
+<rect x="0" y="0" width="3425" height="1980" fill="none" stroke="#000000" stroke-width="6"/>
+<line x1="1448" y1="1055" x2="958" y2="1055" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="2471" y1="1072" x2="2137" y2="1072" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="538" y1="1181" x2="538" y2="1758" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="2881" y1="372" x2="2881" y2="924" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="1810" y1="10" x2="1810" y2="1970" stroke="#000000" stroke-width="5"/>
+<text x="465" y="122" font-family="Helvetica" font-size="52" fill="#000000">Accounting Customer</text>
+<text x="2421" y="122" font-family="Helvetica" font-size="58" fill="#000000">Accounting Supplier</text>
+<circle cx="2874" cy="302" r="60" fill="#000000" stroke="none"/>
+<circle cx="538" cy="1828" r="60" fill="none" stroke="#000000" stroke-width="5"/>
+<circle cx="538" cy="1828" r="26" fill="#000000" stroke="none"/>
+<rect x="2497" y="950" width="787" height="247" rx="40" ry="40" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+<text x="2890" y="1053" text-anchor="middle" font-family="Helvetica" font-size="52" style="font-weight:bold;" fill="#000000">Request Payment of</text>
+<text x="2890" y="1118" text-anchor="middle" font-family="Helvetica" font-size="52" style="font-weight:bold;" fill="#000000">Account</text>
+<rect x="139" y="950" width="793" height="205" rx="33" ry="33" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+<text x="536" y="1063" text-anchor="middle" font-family="Helvetica" font-size="46" style="font-weight:bold;" fill="#000000">Receive Reminder</text>
+<rect x="1474" y="911" width="637" height="337" rx="0" ry="0" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+<text x="1792" y="1092" text-anchor="middle" font-family="Helvetica" font-size="56" style="font-weight:bold;font-style:italic;" fill="#000000">Reminder</text>
+</svg>

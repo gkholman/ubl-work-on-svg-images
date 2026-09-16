@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3425" height="1323" viewBox="0 0 3425 1323">
+<rect x="0" y="0" width="3425" height="1323" fill="#ffffff"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#000000"/></marker></defs>
+<rect x="0" y="0" width="3425" height="1323" fill="none" stroke="#000000" stroke-width="6"/>
+<line x1="1043" y1="748" x2="1258" y2="748" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="2089" y1="748" x2="2338" y2="748" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="546" y1="302" x2="546" y2="644" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="1668" y1="10" x2="1668" y2="1313" stroke="#000000" stroke-width="5"/>
+<line x1="2853" y1="880" x2="2853" y2="1142" stroke="#000000" stroke-width="5" marker-end="url(#arrow)"/>
+<text x="697" y="96" font-family="Helvetica" font-size="42" fill="#000000">Producer</text>
+<text x="2440" y="93" font-family="Helvetica" font-size="42" fill="#000000">Retailer</text>
+<circle cx="544" cy="228" r="49" fill="#000000" stroke="none"/>
+<circle cx="2850" cy="1212" r="44" fill="none" stroke="#000000" stroke-width="5"/>
+<circle cx="2850" cy="1212" r="18" fill="#000000" stroke="none"/>
+<rect x="86" y="670" width="931" height="154" rx="25" ry="25" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+<text x="552" y="761" text-anchor="middle" font-family="Helvetica" font-size="64" style="font-weight:bold;" fill="#000000">Send stock availability report</text>
+<rect x="2364" y="665" width="975" height="189" rx="30" ry="30" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+<text x="2852" y="735" text-anchor="middle" font-family="Helvetica" font-size="62" style="font-weight:bold;" fill="#000000">Receive stock availability</text>
+<text x="2852" y="812" text-anchor="middle" font-family="Helvetica" font-size="62" style="font-weight:bold;" fill="#000000">report</text>
+<rect x="1284" y="663" width="779" height="164" rx="0" ry="0" fill="#ffffff" stroke="#000000" stroke-width="5"/>
+<text x="1674" y="759" text-anchor="middle" font-family="Helvetica" font-size="62" style="font-weight:bold;font-style:italic;" fill="#000000">Stock Availability Report</text>
+</svg>

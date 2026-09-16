@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3425"
+   height="3289"
+   viewBox="0 0 3425 3289"
+   version="1.1"
+   id="svg89"
+   sodipodi:docname="UBL-2.2-CPFR-CreateJointBusinessPlan.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview89"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.28184203"
+     inkscape:cx="1713.726"
+     inkscape:cy="1644.5383"
+     inkscape:window-width="1102"
+     inkscape:window-height="1240"
+     inkscape:window-x="0"
+     inkscape:window-y="39"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg89" />
+  <rect
+     x="0"
+     y="0"
+     width="3425"
+     height="3289"
+     fill="#ffffff"
+     id="rect1" />
+  <defs
+     id="defs1">
+    <marker
+       id="arrow"
+       viewBox="0 0 10 10"
+       refX="9"
+       refY="5"
+       markerWidth="7"
+       markerHeight="7"
+       orient="auto-start-reverse">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         fill="#000000"
+         id="path1" />
+    </marker>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="3425"
+     height="3289"
+     fill="none"
+     stroke="#000000"
+     stroke-width="6"
+     id="rect2" />
+  <rect
+     x="39"
+     y="26"
+     width="3305"
+     height="3238"
+     rx="200"
+     ry="200"
+     fill="none"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect3"
+     style="stroke-dasharray:20,20;stroke-dashoffset:0" />
+  <line
+     x1="1960"
+     y1="627"
+     x2="2515"
+     y2="627"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line3" />
+  <line
+     x1="1004"
+     y1="662"
+     x2="1483"
+     y2="662"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line4" />
+  <line
+     x1="1465"
+     y1="988"
+     x2="1370"
+     y2="988"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line5" />
+  <line
+     x1="2510"
+     y1="988"
+     x2="1951"
+     y2="988"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line6" />
+  <line
+     x1="712"
+     y1="1024"
+     x2="389"
+     y2="1024"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line7" />
+  <line
+     x1="1125"
+     y1="1434"
+     x2="1438"
+     y2="1434"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line9" />
+  <line
+     x1="2040"
+     y1="1434"
+     x2="2519"
+     y2="1434"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line10" />
+  <line
+     x1="1416"
+     y1="1907"
+     x2="1102"
+     y2="1907"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line11" />
+  <line
+     x1="1098"
+     y1="2353"
+     x2="1438"
+     y2="2353"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line12" />
+  <line
+     x1="1470"
+     y1="2885"
+     x2="1263"
+     y2="2885"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line13" />
+  <line
+     x1="2675"
+     y1="2885"
+     x2="1920"
+     y2="2885"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line14" />
+  <line
+     x1="274"
+     y1="862"
+     x2="274"
+     y2="472"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line17" />
+  <line
+     x1="740"
+     y1="1209"
+     x2="740"
+     y2="1331"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line18" />
+  <line
+     x1="766"
+     y1="2056"
+     x2="766"
+     y2="2183"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line19" />
+  <line
+     x1="972"
+     y1="3010"
+     x2="972"
+     y2="3268"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line20" />
+  <line
+     x1="3057"
+     y1="2395.5"
+     x2="3057"
+     y2="1907.5"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line21" />
+  <line
+     x1="3068"
+     y1="2672"
+     x2="3068"
+     y2="2790"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line22" />
+  <line
+     x1="1690"
+     y1="10"
+     x2="1690"
+     y2="3279"
+     stroke="#000000"
+     stroke-width="5"
+     id="line24" />
+  <line
+     x1="2773"
+     y1="2536"
+     x2="2955"
+     y2="2560"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line25" />
+  <line
+     x1="2771"
+     y1="2533"
+     x2="2955"
+     y2="2559"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line26" />
+  <line
+     x1="2390"
+     y1="2009"
+     x2="1995"
+     y2="1951"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line27" />
+  <line
+     x1="1964"
+     y1="2402"
+     x2="2260"
+     y2="2458"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line28" />
+  <polygon
+     points="3060,2485 3138,2566 3060,2646 2981,2566"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="polygon28" />
+  <text
+     x="2877"
+     y="2442"
+     font-family="Helvetica"
+     font-size="39px"
+     fill="#000000"
+     id="text28">TILP Accepted?</text>
+  <polygon
+     points="278,941 363,1024 278,1107 193,1024"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="polygon29" />
+  <text
+     x="106"
+     y="912"
+     font-family="Helvetica"
+     font-size="38"
+     fill="#000000"
+     id="text29">ail Event|accepted</text>
+  <text
+     x="1402"
+     y="155"
+     font-family="Helvetica"
+     font-size="34"
+     fill="#000000"
+     id="text30">Creating Joint Business Plan</text>
+  <text
+     x="181"
+     y="515"
+     font-family="Helvetica"
+     font-size="34"
+     fill="#000000"
+     id="text31">No</text>
+  <text
+     x="575"
+     y="1309"
+     font-family="Helvetica"
+     font-size="34"
+     fill="#000000"
+     id="text32">Yes</text>
+  <text
+     x="2964"
+     y="1947"
+     font-family="Helvetica"
+     font-size="34"
+     fill="#000000"
+     id="text33">No</text>
+  <text
+     x="2648"
+     y="2122"
+     font-family="Helvetica"
+     font-size="57"
+     fill="#000000"
+     id="text34">Profile</text>
+  <text
+     x="593"
+     y="1453"
+     font-family="Helvetica"
+     font-size="34"
+     fill="#000000"
+     id="text35">Send Ret</text>
+  <text
+     x="482"
+     y="681"
+     font-family="Helvetica"
+     font-size="34"
+     fill="#000000"
+     id="text36">Send Retail Ev</text>
+  <rect
+     x="2704"
+     y="2818"
+     width="440"
+     height="133"
+     rx="21"
+     ry="21"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect36" />
+  <text
+     x="2924"
+     y="2892"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text37">Send TILP</text>
+  <rect
+     x="2701"
+     y="2816"
+     width="445"
+     height="137"
+     rx="22"
+     ry="22"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect37" />
+  <text
+     x="2924"
+     y="2892"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text38">Send TILP</text>
+  <rect
+     x="2289"
+     y="2435"
+     width="453"
+     height="150"
+     rx="24"
+     ry="24"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect38" />
+  <text
+     x="2516"
+     y="2518"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text39">Receive TILP</text>
+  <rect
+     x="709"
+     y="2827"
+     width="525"
+     height="155"
+     rx="25"
+     ry="25"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect39" />
+  <text
+     x="972"
+     y="2912"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text40">Receive TILP</text>
+  <rect
+     x="2286"
+     y="2432"
+     width="459"
+     height="155"
+     rx="25"
+     ry="25"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect40" />
+  <text
+     x="2516"
+     y="2517"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text41">Receive TILP</text>
+  <rect
+     x="707"
+     y="2825"
+     width="530"
+     height="159"
+     rx="25"
+     ry="25"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect41" />
+  <text
+     x="972"
+     y="2912"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text42">Receive TILP</text>
+  <rect
+     x="2547"
+     y="1369"
+     width="579"
+     height="159"
+     rx="25"
+     ry="25"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect42" />
+  <text
+     x="2836"
+     y="1456"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text43">Receive Retail Event</text>
+  <rect
+     x="495"
+     y="1360"
+     width="601"
+     height="163"
+     rx="26"
+     ry="26"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect43" />
+  <text
+     x="796"
+     y="1449"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text44">Send Retail Event</text>
+  <rect
+     x="2545"
+     y="1366"
+     width="583"
+     height="164"
+     rx="26"
+     ry="26"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect44" />
+  <text
+     x="2836"
+     y="1456"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text45">Receive Retail Event</text>
+  <rect
+     x="493"
+     y="1357"
+     width="606"
+     height="169"
+     rx="27"
+     ry="27"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect45" />
+  <text
+     x="796"
+     y="1449"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text46">Send Retail Event</text>
+  <rect
+     x="741"
+     y="922"
+     width="601"
+     height="173"
+     rx="28"
+     ry="28"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect46" />
+  <text
+     x="1042"
+     y="995"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text47">Receive Retail Event</text>
+  <text
+     x="1042"
+     y="1037"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text48">Revision</text>
+  <rect
+     x="738"
+     y="920"
+     width="606"
+     height="177"
+     rx="28"
+     ry="28"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect48" />
+  <text
+     x="1041"
+     y="995"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text49">Receive Retail Event</text>
+  <text
+     x="1041"
+     y="1037"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text50">Revision</text>
+  <rect
+     x="379"
+     y="574"
+     width="597"
+     height="186"
+     rx="30"
+     ry="30"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect50" />
+  <text
+     x="678"
+     y="675"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text51">Send Retail Event</text>
+  <rect
+     x="377"
+     y="572"
+     width="601"
+     height="191"
+     rx="31"
+     ry="31"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect51" />
+  <text
+     x="678"
+     y="675"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text52">Send Retail Event</text>
+  <rect
+     x="214"
+     y="253"
+     width="597"
+     height="191"
+     rx="31"
+     ry="31"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect52" />
+  <text
+     x="512"
+     y="356"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text53">Create Retail Event</text>
+  <rect
+     x="212"
+     y="251"
+     width="601"
+     height="195"
+     rx="31"
+     ry="31"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect53" />
+  <text
+     x="512"
+     y="356"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text54">Create Retail Event</text>
+  <rect
+     x="2418"
+     y="1962"
+     width="601"
+     height="199"
+     rx="32"
+     ry="32"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect54" />
+  <text
+     x="2718"
+     y="2048"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="35"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text55">Send Trade Item Location</text>
+  <text
+     x="2718"
+     y="2091"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="35"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text56">Profile</text>
+  <rect
+     x="2416"
+     y="1960"
+     width="605"
+     height="204"
+     rx="33"
+     ry="33"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect56" />
+  <text
+     x="2718"
+     y="2048"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="35"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text57">Send Trade Item Location</text>
+  <text
+     x="2718"
+     y="2092"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="35"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text58">Profile</text>
+  <rect
+     x="1496"
+     y="2802"
+     width="398"
+     height="219"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect58" />
+  <text
+     x="1695"
+     y="2894"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="43"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text59">TILP (response</text>
+  <text
+     x="1695"
+     y="2948"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="43"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text60">positive)</text>
+  <rect
+     x="1491"
+     y="879"
+     width="434"
+     height="219"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect60" />
+  <text
+     x="1708"
+     y="975"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text61">Retail Event</text>
+  <text
+     x="1708"
+     y="1017"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text62">(revision)</text>
+  <rect
+     x="1464"
+     y="2244"
+     width="474"
+     height="220"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect62" />
+  <text
+     x="1701"
+     y="2340"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text63">Trade Item Location</text>
+  <text
+     x="1701"
+     y="2383"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text64">Profile (revision)</text>
+  <rect
+     x="1509"
+     y="527"
+     width="425"
+     height="223"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect64" />
+  <text
+     x="1722"
+     y="646"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text65">Retail Event</text>
+  <rect
+     x="2538"
+     y="878"
+     width="615"
+     height="226"
+     rx="36"
+     ry="36"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect65" />
+  <text
+     x="2846"
+     y="977"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text66">Revise Retail Event and</text>
+  <text
+     x="2846"
+     y="1020"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text67">Send Revision</text>
+  <rect
+     x="2536"
+     y="875"
+     width="619"
+     height="231"
+     rx="37"
+     ry="37"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect67" />
+  <text
+     x="2846"
+     y="977"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text68">Revise Retail Event and</text>
+  <text
+     x="2846"
+     y="1019"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text69">Send Revision</text>
+  <rect
+     x="473"
+     y="1792"
+     width="601"
+     height="235"
+     rx="38"
+     ry="38"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect69" />
+  <text
+     x="774"
+     y="1896"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text70">Receive Trade Item</text>
+  <text
+     x="774"
+     y="1938"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text71">Location Profile</text>
+  <rect
+     x="2543"
+     y="503"
+     width="610"
+     height="235"
+     rx="38"
+     ry="38"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect71" />
+  <text
+     x="2848"
+     y="628"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text72">Receive Retail Event</text>
+  <rect
+     x="471"
+     y="1790"
+     width="605"
+     height="240"
+     rx="38"
+     ry="38"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect72" />
+  <text
+     x="774"
+     y="1896"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text73">Receive Trade Item</text>
+  <text
+     x="774"
+     y="1939"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text74">Location Profile</text>
+  <rect
+     x="2565"
+     y="1636"
+     width="592"
+     height="240"
+     rx="38"
+     ry="38"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect74" />
+  <text
+     x="2861"
+     y="1742"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text75">Create Trade Item</text>
+  <text
+     x="2861"
+     y="1785"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text76">Location Profile</text>
+  <rect
+     x="2541"
+     y="501"
+     width="614"
+     height="240"
+     rx="38"
+     ry="38"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect76" />
+  <text
+     x="2848"
+     y="629"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text77">Receive Retail Event</text>
+  <rect
+     x="1464"
+     y="1321"
+     width="550"
+     height="241"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect77" />
+  <text
+     x="1739"
+     y="1426"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="39"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text78">Retail Event (response</text>
+  <text
+     x="1739"
+     y="1475"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="39"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text79">positive)</text>
+  <rect
+     x="2563"
+     y="1634"
+     width="597"
+     height="244"
+     rx="39"
+     ry="39"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect79" />
+  <text
+     x="2862"
+     y="1742"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text80">Create Trade Item</text>
+  <text
+     x="2862"
+     y="1785"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text81">Location Profile</text>
+  <rect
+     x="1442"
+     y="1789"
+     width="527"
+     height="246"
+     rx="0"
+     ry="0"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect81" />
+  <text
+     x="1706"
+     y="1898"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="35"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text82">Trade Item Location</text>
+  <text
+     x="1706"
+     y="1942"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="35"
+     style="font-weight:bold;font-style:italic;"
+     fill="#000000"
+     id="text83">Profile</text>
+  <rect
+     x="468"
+     y="2212"
+     width="601"
+     height="288"
+     rx="46"
+     ry="46"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect83" />
+  <text
+     x="768"
+     y="2321"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text84">Revise Trade Item</text>
+  <text
+     x="768"
+     y="2364"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text85">Location Profile and Send</text>
+  <text
+     x="768"
+     y="2406"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text86">Revision</text>
+  <rect
+     x="466"
+     y="2209"
+     width="606"
+     height="294"
+     rx="47"
+     ry="47"
+     fill="#ffffff"
+     stroke="#000000"
+     stroke-width="5"
+     id="rect86" />
+  <text
+     x="769"
+     y="2321"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text87">Revise Trade Item</text>
+  <text
+     x="769"
+     y="2364"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text88">Location Profile and Send</text>
+  <text
+     x="769"
+     y="2406"
+     text-anchor="middle"
+     font-family="Helvetica"
+     font-size="34"
+     style="font-weight:bold;"
+     fill="#000000"
+     id="text89">Revision</text>
+  <line
+     x1="733.95911"
+     y1="17.679117"
+     x2="733.95911"
+     y2="236.77162"
+     stroke="#000000"
+     stroke-width="5.00001"
+     marker-end="url(#arrow)"
+     id="line89" />
+  <line
+     x1="529.78058"
+     y1="454.06067"
+     x2="529.78058"
+     y2="547.0556"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line90" />
+  <path
+     style="fill:#ffffff;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 4;stroke-dashoffset:0;paint-order:fill markers stroke"
+     d="M 281.05735,1209.0572 H 731.925 v 0"
+     id="path90"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="fill:#ffffff;stroke:#000000;stroke-width:5.00001;stroke-linecap:square;stroke-linejoin:bevel;stroke-dasharray:4, 4;stroke-dashoffset:0;paint-order:fill markers stroke"
+     d="m 281.26684,1200.7274 v -91.5149 0"
+     id="path91"
+     sodipodi:nodetypes="ccc" />
+  <line
+     x1="2850.2295"
+     y1="762.7442"
+     x2="2850.2295"
+     y2="855.73914"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line91" />
+  <line
+     x1="2853.7776"
+     y1="1539.7753"
+     x2="2853.7776"
+     y2="1619.0925"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line92" />
+  <line
+     x1="2722.4983"
+     y1="1894.5839"
+     x2="2722.4983"
+     y2="1950.1143"
+     stroke="#000000"
+     stroke-width="5"
+     marker-end="url(#arrow)"
+     id="line93" />
+</svg>
